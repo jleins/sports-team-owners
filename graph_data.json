@@ -1,0 +1,8179 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "label": "NBA",
+      "Type": "League",
+      "Business Type": "Basketball",
+      "size": 50.0,
+      "r": 0,
+      "g": 183,
+      "b": 218,
+      "x": 85.98379,
+      "y": -262.56683,
+      "z": 0.0018166971
+    },
+    {
+      "id": "1",
+      "label": "Celtics",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 31.266834,
+      "y": 271.23203,
+      "z": 0.00554738
+    },
+    {
+      "id": "2",
+      "label": "Knicks",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 53.50845,
+      "y": 653.9184,
+      "z": 0.0053492314
+    },
+    {
+      "id": "3",
+      "label": "Bucks",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 433.23172,
+      "y": 413.0484,
+      "z": 0.0026303611
+    },
+    {
+      "id": "4",
+      "label": "Cavaliers",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 53.66195,
+      "y": -630.1197,
+      "z": 0.004965347
+    },
+    {
+      "id": "5",
+      "label": "Magic",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -221.092,
+      "y": -411.81903,
+      "z": 0.0047921455
+    },
+    {
+      "id": "6",
+      "label": "Pacers",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 11.385148,
+      "y": -87.65699,
+      "z": 0.00042042328
+    },
+    {
+      "id": "7",
+      "label": "Sixers",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -50.257904,
+      "y": 62.399727,
+      "z": 0.0047560222
+    },
+    {
+      "id": "8",
+      "label": "Heat",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 185.19958,
+      "y": -122.12382,
+      "z": 0.0034077521
+    },
+    {
+      "id": "9",
+      "label": "Bulls",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -239.67877,
+      "y": -277.79102,
+      "z": 0.0016537025
+    },
+    {
+      "id": "10",
+      "label": "Hawks",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -171.62042,
+      "y": -179.53223,
+      "z": 0.009587288
+    },
+    {
+      "id": "11",
+      "label": "Nets",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 296.01428,
+      "y": -305.3385,
+      "z": 0.0040924326
+    },
+    {
+      "id": "12",
+      "label": "Raptors",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -138.04807,
+      "y": 380.50388,
+      "z": 0.005487888
+    },
+    {
+      "id": "13",
+      "label": "Hornets",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -98.60329,
+      "y": -629.9307,
+      "z": 0.0032493346
+    },
+    {
+      "id": "14",
+      "label": "Wizards",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -355.1841,
+      "y": 435.05942,
+      "z": 0.0018928852
+    },
+    {
+      "id": "15",
+      "label": "Pistons",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 83.2915,
+      "y": -467.15796,
+      "z": 0.008411389
+    },
+    {
+      "id": "16",
+      "label": "Thunder",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 265.16733,
+      "y": -417.8901,
+      "z": 0.003911874
+    },
+    {
+      "id": "17",
+      "label": "Nuggets",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 587.62195,
+      "y": 196.88754,
+      "z": 0.0071915104
+    },
+    {
+      "id": "18",
+      "label": "T-wolves",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 530.76074,
+      "y": -338.44714,
+      "z": 0.0019982494
+    },
+    {
+      "id": "19",
+      "label": "Clippers",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 226.80705,
+      "y": 37.32643,
+      "z": 0.0066811806
+    },
+    {
+      "id": "20",
+      "label": "Mavericks",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 416.9035,
+      "y": -918.02,
+      "z": 0.0006677203
+    },
+    {
+      "id": "21",
+      "label": "Suns",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 245.45805,
+      "y": -542.7806,
+      "z": 0.0012061693
+    },
+    {
+      "id": "22",
+      "label": "Lakers",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -341.47095,
+      "y": -731.54987,
+      "z": 0.007096293
+    },
+    {
+      "id": "23",
+      "label": "Pelicans",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 602.146,
+      "y": -215.57152,
+      "z": 0.0072015557
+    },
+    {
+      "id": "24",
+      "label": "Kings",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -128.87572,
+      "y": -901.5633,
+      "z": 0.0033960473
+    },
+    {
+      "id": "25",
+      "label": "Warriors",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -537.53894,
+      "y": -248.51047,
+      "z": 0.009650397
+    },
+    {
+      "id": "26",
+      "label": "Rockets",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 389.0525,
+      "y": -699.78925,
+      "z": 0.0077066515
+    },
+    {
+      "id": "27",
+      "label": "Jazz",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -195.40501,
+      "y": 7.3950777,
+      "z": 0.00045985353
+    },
+    {
+      "id": "28",
+      "label": "Grizzlies",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 5.2908444,
+      "y": -617.4732,
+      "z": 0.0074683977
+    },
+    {
+      "id": "29",
+      "label": "Spurs",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 372.56757,
+      "y": -1202.3964,
+      "z": 0.00350602
+    },
+    {
+      "id": "30",
+      "label": "Blazers",
+      "Type": "Team",
+      "Business Type": "Basketball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 337.5392,
+      "y": 60.11482,
+      "z": 0.0034203215
+    },
+    {
+      "id": "31",
+      "label": "Buss",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -348.41446,
+      "y": -790.5464,
+      "z": 0.004566238
+    },
+    {
+      "id": "32",
+      "label": "Soon-Shiong",
+      "Type": "Owner",
+      "Business Type": "Healthcare",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -76.48479,
+      "y": -1458.8849,
+      "z": 0.0014961102
+    },
+    {
+      "id": "34",
+      "label": "Guggenheim",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -646.69806,
+      "y": -696.6511,
+      "z": 0.007828436
+    },
+    {
+      "id": "35",
+      "label": "Eldridge",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -575.8158,
+      "y": -756.10394,
+      "z": 0.008475537
+    },
+    {
+      "id": "36",
+      "label": "Abraxis",
+      "Type": "Business",
+      "Business Type": "Healthcare",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -34.084305,
+      "y": -1483.291,
+      "z": 0.00810567
+    },
+    {
+      "id": "37",
+      "label": "LA Times",
+      "Type": "Business",
+      "Business Type": "Newspaper",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -107.49185,
+      "y": -1496.6633,
+      "z": 0.0067677875
+    },
+    {
+      "id": "38",
+      "label": "Ballmer",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 254.28493,
+      "y": 83.519684,
+      "z": 0.0019689375
+    },
+    {
+      "id": "39",
+      "label": "Microsoft",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 299.30624,
+      "y": 125.61022,
+      "z": 0.00951814
+    },
+    {
+      "id": "40",
+      "label": "Allen",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "Politics": "Democrat",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 366.49023,
+      "y": 110.21571,
+      "z": 0.0032985217
+    },
+    {
+      "id": "41",
+      "label": "NFL",
+      "Type": "League",
+      "Business Type": "Football",
+      "size": 50.0,
+      "r": 0,
+      "g": 183,
+      "b": 218,
+      "x": 1154.0992,
+      "y": -82.29127,
+      "z": 0.001837327
+    },
+    {
+      "id": "42",
+      "label": "Seahawks",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 443.42947,
+      "y": 92.46895,
+      "z": 0.0022255334
+    },
+    {
+      "id": "43",
+      "label": "Bills",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 797.7797,
+      "y": 726.6522,
+      "z": 0.0019106249
+    },
+    {
+      "id": "44",
+      "label": "Dolphins",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1146.1532,
+      "y": 309.0256,
+      "z": 0.0058272234
+    },
+    {
+      "id": "45",
+      "label": "Jets",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1495.7511,
+      "y": 145.71013,
+      "z": 0.009217986
+    },
+    {
+      "id": "46",
+      "label": "Patriots",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1276.8226,
+      "y": 252.02687,
+      "z": 0.005143692
+    },
+    {
+      "id": "47",
+      "label": "Ravens",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1441.0116,
+      "y": -396.73904,
+      "z": 0.0035323661
+    },
+    {
+      "id": "48",
+      "label": "Browns",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 591.18494,
+      "y": 477.24905,
+      "z": 0.00885785
+    },
+    {
+      "id": "49",
+      "label": "Steelers",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1403.8792,
+      "y": -91.839485,
+      "z": 0.0039846664
+    },
+    {
+      "id": "50",
+      "label": "Bengals",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1461.8651,
+      "y": -211.20766,
+      "z": 0.0013382065
+    },
+    {
+      "id": "51",
+      "label": "Texans",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1415.8555,
+      "y": 269.4629,
+      "z": 0.004374646
+    },
+    {
+      "id": "52",
+      "label": "Jaguars",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1092.2229,
+      "y": -594.72375,
+      "z": 0.0019291838
+    },
+    {
+      "id": "53",
+      "label": "Colts",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 983.6409,
+      "y": -410.32867,
+      "z": 0.0053333207
+    },
+    {
+      "id": "54",
+      "label": "Titans",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1103.564,
+      "y": -391.4992,
+      "z": 0.0082487175
+    },
+    {
+      "id": "55",
+      "label": "Chiefs",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 514.7697,
+      "y": -183.12332,
+      "z": 0.0026299846
+    },
+    {
+      "id": "56",
+      "label": "Raiders",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1331.284,
+      "y": 79.05494,
+      "z": 0.0032707325
+    },
+    {
+      "id": "57",
+      "label": "Broncos",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 809.54565,
+      "y": 89.82246,
+      "z": 0.0045836605
+    },
+    {
+      "id": "58",
+      "label": "Chargers",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 934.69434,
+      "y": -268.66965,
+      "z": 0.00026943217
+    },
+    {
+      "id": "59",
+      "label": "Cowboys",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1352.6396,
+      "y": -271.19302,
+      "z": 0.0048715603
+    },
+    {
+      "id": "60",
+      "label": "Eagles",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1334.0604,
+      "y": -563.897,
+      "z": 0.0014682407
+    },
+    {
+      "id": "61",
+      "label": "Giants",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1206.4409,
+      "y": -489.64407,
+      "z": 0.0016124183
+    },
+    {
+      "id": "62",
+      "label": "Commanders",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 138.00401,
+      "y": 7.595153,
+      "z": 0.009066112
+    },
+    {
+      "id": "63",
+      "label": "Lions",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1576.2974,
+      "y": -27.873018,
+      "z": 0.004268593
+    },
+    {
+      "id": "64",
+      "label": "Packers",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1106.7,
+      "y": 158.15448,
+      "z": 0.0024106007
+    },
+    {
+      "id": "65",
+      "label": "Vikings",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1689.4227,
+      "y": -527.3837,
+      "z": 0.003171243
+    },
+    {
+      "id": "66",
+      "label": "Bears",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1261.9827,
+      "y": -347.82956,
+      "z": 0.0010672356
+    },
+    {
+      "id": "67",
+      "label": "Bucs",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1780.8112,
+      "y": -149.46086,
+      "z": 0.0054423274
+    },
+    {
+      "id": "68",
+      "label": "Saints",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 717.36725,
+      "y": -197.15721,
+      "z": 0.0015519047
+    },
+    {
+      "id": "69",
+      "label": "Falcons",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1495.9825,
+      "y": -796.8901,
+      "z": 0.002249107
+    },
+    {
+      "id": "70",
+      "label": "Panthers",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1835.1686,
+      "y": 127.64798,
+      "z": 0.0066004815
+    },
+    {
+      "id": "71",
+      "label": "49ers",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1294.3416,
+      "y": 590.8566,
+      "z": 0.0072023165
+    },
+    {
+      "id": "72",
+      "label": "Rams",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 707.25653,
+      "y": 219.70755,
+      "z": 0.008345275
+    },
+    {
+      "id": "73",
+      "label": "AZ Cardinals",
+      "Type": "Team",
+      "Business Type": "Football",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1040.9338,
+      "y": -290.63037,
+      "z": 0.003285621
+    },
+    {
+      "id": "74",
+      "label": "Reinsdorf",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -352.97574,
+      "y": -286.88937,
+      "z": 0.0022550663
+    },
+    {
+      "id": "76",
+      "label": "MLB",
+      "Type": "League",
+      "Business Type": "Baseball",
+      "size": 50.0,
+      "r": 0,
+      "g": 183,
+      "b": 218,
+      "x": -1321.8983,
+      "y": -372.30542,
+      "z": 0.003690822
+    },
+    {
+      "id": "75",
+      "label": "W Sox",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -439.24872,
+      "y": -295.76944,
+      "z": 0.0046730954
+    },
+    {
+      "id": "77",
+      "label": "R Sox",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -882.26794,
+      "y": 360.00296,
+      "z": 0.002179261
+    },
+    {
+      "id": "78",
+      "label": "Fenway",
+      "Type": "Owner",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -819.6591,
+      "y": 466.2106,
+      "z": 0.006645269
+    },
+    {
+      "id": "79",
+      "label": "NHL",
+      "Type": "League",
+      "Business Type": "Hockey",
+      "size": 50.0,
+      "r": 0,
+      "g": 183,
+      "b": 218,
+      "x": -116.46388,
+      "y": 1114.3312,
+      "z": 0.0034232624
+    },
+    {
+      "id": "80",
+      "label": "Penguins",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -738.64923,
+      "y": 543.6401,
+      "z": 0.009002331
+    },
+    {
+      "id": "81",
+      "label": "Redbird",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -901.64545,
+      "y": 473.77115,
+      "z": 0.000885506
+    },
+    {
+      "id": "82",
+      "label": "LeBron James",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "Politics": "Democrat",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -667.1788,
+      "y": 492.43433,
+      "z": 0.0038609803
+    },
+    {
+      "id": "83",
+      "label": "Henry",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -843.0126,
+      "y": 521.78894,
+      "z": 0.0064171064
+    },
+    {
+      "id": "84",
+      "label": "Boston Globe",
+      "Type": "Business",
+      "Business Type": "Newspaper",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -861.88214,
+      "y": 564.9349,
+      "z": 0.009658988
+    },
+    {
+      "id": "85",
+      "label": "Liverpool",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -793.94824,
+      "y": 414.03726,
+      "z": 0.0053271656
+    },
+    {
+      "id": "86",
+      "label": "Marlins",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1065.9177,
+      "y": -890.82477,
+      "z": 0.0038405093
+    },
+    {
+      "id": "87",
+      "label": "B Sherman",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1036.2628,
+      "y": -963.1377,
+      "z": 0.0030889246
+    },
+    {
+      "id": "88",
+      "label": "Derek Jeter",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -937.5206,
+      "y": -810.6519,
+      "z": 0.004224126
+    },
+    {
+      "id": "89",
+      "label": "Fertitta",
+      "Type": "Owner",
+      "Business Type": "Food",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 421.98526,
+      "y": -747.9815,
+      "z": 0.008523707
+    },
+    {
+      "id": "90",
+      "label": "PCM",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1018.61554,
+      "y": -1006.76135,
+      "z": 0.006510783
+    },
+    {
+      "id": "91",
+      "label": "Landry's",
+      "Type": "Business",
+      "Business Type": "Food",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 449.82816,
+      "y": -786.72894,
+      "z": 0.002924664
+    },
+    {
+      "id": "92",
+      "label": "DeVos",
+      "Type": "Owner",
+      "Business Type": "MLM",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -271.19025,
+      "y": -434.83685,
+      "z": 0.0068558534
+    },
+    {
+      "id": "93",
+      "label": "Schnall",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -149.46086,
+      "y": -511.53607,
+      "z": 0.0013217919
+    },
+    {
+      "id": "94",
+      "label": "Plotkin",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -150.31029,
+      "y": -735.61633,
+      "z": 0.0023131112
+    },
+    {
+      "id": "95",
+      "label": "Michael Jordan",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 45.838657,
+      "y": -905.2035,
+      "z": 0.006177714
+    },
+    {
+      "id": "96",
+      "label": "Melvin",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -172.0191,
+      "y": -778.0309,
+      "z": 0.009292343
+    },
+    {
+      "id": "97",
+      "label": "CD&R",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -193.30952,
+      "y": -532.77045,
+      "z": 0.007383242
+    },
+    {
+      "id": "98",
+      "label": "J Cole",
+      "Type": "Owner",
+      "Business Type": "Rapper",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 36.335766,
+      "y": -1075.3337,
+      "z": 0.0055688615
+    },
+    {
+      "id": "99",
+      "label": "Ressler",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -157.99966,
+      "y": -77.741196,
+      "z": 0.007766189
+    },
+    {
+      "id": "100",
+      "label": "Ares",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -207.68814,
+      "y": -78.1668,
+      "z": 0.00784491
+    },
+    {
+      "id": "101",
+      "label": "Apollo",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -80.41484,
+      "y": -23.23187,
+      "z": 0.006258969
+    },
+    {
+      "id": "102",
+      "label": "Grant Hill",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -729.61206,
+      "y": -701.62195,
+      "z": 0.0011225637
+    },
+    {
+      "id": "103",
+      "label": "Blakely",
+      "Type": "Owner",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -285.61017,
+      "y": 57.60611,
+      "z": 0.009679112
+    },
+    {
+      "id": "104",
+      "label": "Spanx",
+      "Type": "Business",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -304.57086,
+      "y": 101.063126,
+      "z": 0.009137281
+    },
+    {
+      "id": "105",
+      "label": "Brewers",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -487.66638,
+      "y": -120.977295,
+      "z": 0.0013670382
+    },
+    {
+      "id": "106",
+      "label": "Attanasio",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -459.4468,
+      "y": -72.94783,
+      "z": 0.0011947795
+    },
+    {
+      "id": "107",
+      "label": "Crescent",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -441.97623,
+      "y": -29.390284,
+      "z": 0.0083376225
+    },
+    {
+      "id": "108",
+      "label": "Grousbeck",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -31.814293,
+      "y": 276.41797,
+      "z": 0.005276778
+    },
+    {
+      "id": "109",
+      "label": "Highland",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -77.04454,
+      "y": 289.2658,
+      "z": 0.004111249
+    },
+    {
+      "id": "110",
+      "label": "Pera",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 48.799267,
+      "y": -684.4425,
+      "z": 0.0075097806
+    },
+    {
+      "id": "111",
+      "label": "Ubiquiti",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 80.476265,
+      "y": -720.7933,
+      "z": 0.008375069
+    },
+    {
+      "id": "112",
+      "label": "Gilbert",
+      "Type": "Owner",
+      "Business Type": "Real Estate",
+      "Politics": "",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1.0467682,
+      "y": -672.9342,
+      "z": 0.004306249
+    },
+    {
+      "id": "113",
+      "label": "Rocket Mort",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -13.356947,
+      "y": -719.5619,
+      "z": 0.007436946
+    },
+    {
+      "id": "114",
+      "label": "Gores",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 93.33244,
+      "y": -517.61584,
+      "z": 0.0054171435
+    },
+    {
+      "id": "115",
+      "label": "Platinum",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 124.054,
+      "y": -553.56805,
+      "z": 0.00088728295
+    },
+    {
+      "id": "116",
+      "label": "Tigers",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -706.97186,
+      "y": 274.50546,
+      "z": 0.002295148
+    },
+    {
+      "id": "117",
+      "label": "Red Wings",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -591.3863,
+      "y": 407.9133,
+      "z": 0.006891411
+    },
+    {
+      "id": "118",
+      "label": "Ilitch",
+      "Type": "Owner",
+      "Business Type": "Food",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -646.3561,
+      "y": 339.852,
+      "z": 0.0053823097
+    },
+    {
+      "id": "119",
+      "label": "Little Caesars",
+      "Type": "Business",
+      "Business Type": "Food",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -669.14355,
+      "y": 382.7012,
+      "z": 0.0021129102
+    },
+    {
+      "id": "120",
+      "label": "Dolan",
+      "Type": "Owner",
+      "Business Type": "Real Estate",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 59.50417,
+      "y": 742.98004,
+      "z": 0.002496834
+    },
+    {
+      "id": "121",
+      "label": "MSG",
+      "Type": "Business",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 108.664,
+      "y": 736.053,
+      "z": 0.008438676
+    },
+    {
+      "id": "122",
+      "label": "Cablevision",
+      "Type": "Business",
+      "Business Type": "Media",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 83.7978,
+      "y": 786.5145,
+      "z": 0.008986564
+    },
+    {
+      "id": "123",
+      "label": "Rangers",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 22.278376,
+      "y": 793.66656,
+      "z": 0.003437553
+    },
+    {
+      "id": "124",
+      "label": "J Haslam",
+      "Type": "Owner",
+      "Business Type": "Retail",
+      "Politics": "",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 528.0588,
+      "y": 527.3625,
+      "z": 0.0024861067
+    },
+    {
+      "id": "125",
+      "label": "Pilot",
+      "Type": "Business",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 489.89938,
+      "y": 604.1281,
+      "z": 0.00090064283
+    },
+    {
+      "id": "126",
+      "label": "Edens",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 370.5513,
+      "y": 361.13147,
+      "z": 0.009015023
+    },
+    {
+      "id": "127",
+      "label": "Aston Villa",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 392.8703,
+      "y": 317.70044,
+      "z": 0.0031883512
+    },
+    {
+      "id": "128",
+      "label": "Fortress",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 327.9998,
+      "y": 337.19183,
+      "z": 0.00087650324
+    },
+    {
+      "id": "129",
+      "label": "Dinan",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 412.30807,
+      "y": 476.2469,
+      "z": 0.0009266456
+    },
+    {
+      "id": "130",
+      "label": "York",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 394.379,
+      "y": 520.5779,
+      "z": 0.0041163717
+    },
+    {
+      "id": "131",
+      "label": "Kroenke",
+      "Type": "Owner",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 645.8304,
+      "y": 255.58632,
+      "z": 0.0048577823
+    },
+    {
+      "id": "132",
+      "label": "Avalanche",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 580.6253,
+      "y": 337.25952,
+      "z": 0.0065745176
+    },
+    {
+      "id": "133",
+      "label": "Arsenal",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 648.3433,
+      "y": 308.21747,
+      "z": 0.0076531316
+    },
+    {
+      "id": "134",
+      "label": "THF Realty",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 594.74384,
+      "y": 265.39444,
+      "z": 0.0062086503
+    },
+    {
+      "id": "135",
+      "label": "Walter",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -671.20795,
+      "y": -640.2617,
+      "z": 0.009762978
+    },
+    {
+      "id": "136",
+      "label": "Dodgers",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -723.85876,
+      "y": -542.0325,
+      "z": 0.006468232
+    },
+    {
+      "id": "137",
+      "label": "Magic Johnson",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -131.13272,
+      "y": -258.73654,
+      "z": 0.00087610225
+    },
+    {
+      "id": "138",
+      "label": "Boehly",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -625.8157,
+      "y": -759.9099,
+      "z": 0.0020150614
+    },
+    {
+      "id": "139",
+      "label": "DraftKings",
+      "Type": "Business",
+      "Business Type": "Casino",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -607.4996,
+      "y": -808.2991,
+      "z": 0.005830537
+    },
+    {
+      "id": "140",
+      "label": "Guber",
+      "Type": "Owner",
+      "Business Type": "Film Production",
+      "Politics": "Democrat",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -608.7187,
+      "y": -390.9347,
+      "z": 0.0071812677
+    },
+    {
+      "id": "141",
+      "label": "Mandalay",
+      "Type": "Business",
+      "Business Type": "Film Production",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -567.39996,
+      "y": -417.12436,
+      "z": 0.00044171407
+    },
+    {
+      "id": "142",
+      "label": "Lacob",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -599.7157,
+      "y": -209.40001,
+      "z": 0.0077076633
+    },
+    {
+      "id": "143",
+      "label": "LAFC",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -657.1712,
+      "y": -379.66153,
+      "z": 0.00060744735
+    },
+    {
+      "id": "144",
+      "label": "Kleiner Perkins",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -639.2238,
+      "y": -183.66042,
+      "z": 0.005848721
+    },
+    {
+      "id": "145",
+      "label": "Harris",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -4.170622,
+      "y": 29.77008,
+      "z": 0.008917165
+    },
+    {
+      "id": "146",
+      "label": "Schmidt",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 76.96899,
+      "y": 71.420975,
+      "z": 0.003601392
+    },
+    {
+      "id": "147",
+      "label": "Google",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 49.317318,
+      "y": 109.61861,
+      "z": 0.003857521
+    },
+    {
+      "id": "148",
+      "label": "Rales",
+      "Type": "Owner",
+      "Business Type": "Industrial Supplier",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 347.6658,
+      "y": -50.755535,
+      "z": 0.0061562527
+    },
+    {
+      "id": "149",
+      "label": "Smith",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -190.51128,
+      "y": 68.3813,
+      "z": 0.0077717626
+    },
+    {
+      "id": "150",
+      "label": "Qualtrics",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -194.72995,
+      "y": 115.45814,
+      "z": 0.004428596
+    },
+    {
+      "id": "151",
+      "label": "Holt",
+      "Type": "Owner",
+      "Business Type": "Industrial Supplier",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 494.7889,
+      "y": -1349.9209,
+      "z": 0.008133234
+    },
+    {
+      "id": "152",
+      "label": "HoltCat",
+      "Type": "Business",
+      "Business Type": "Industrial Supplier",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 526.9778,
+      "y": -1384.4095,
+      "z": 0.004418279
+    },
+    {
+      "id": "153",
+      "label": "Dell",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 342.5704,
+      "y": -1338.0258,
+      "z": 0.0074509606
+    },
+    {
+      "id": "154",
+      "label": "Waxman",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 356.83136,
+      "y": -1536.8662,
+      "z": 0.0052476735
+    },
+    {
+      "id": "155",
+      "label": "Leininger",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 539.7313,
+      "y": -1493.2023,
+      "z": 0.0031949698
+    },
+    {
+      "id": "156",
+      "label": "TPPF",
+      "Type": "Business",
+      "Business Type": "Republican Policy",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 565.51074,
+      "y": -1532.8721,
+      "z": 0.007602723
+    },
+    {
+      "id": "157",
+      "label": "David Robinson",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "Politics": "Democrat",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 212.10004,
+      "y": -1651.2736,
+      "z": 0.0025607555
+    },
+    {
+      "id": "158",
+      "label": "MLSE",
+      "Type": "Owner",
+      "Business Type": "Sports",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -109.42726,
+      "y": 454.10544,
+      "z": 0.0065044826
+    },
+    {
+      "id": "159",
+      "label": "Maple Leafs",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -115.51555,
+      "y": 521.1069,
+      "z": 0.0052545234
+    },
+    {
+      "id": "160",
+      "label": "Ranadiv\u00e9",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -144.01637,
+      "y": -982.6637,
+      "z": 0.0056553553
+    },
+    {
+      "id": "161",
+      "label": "TIBCO",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -153.78319,
+      "y": -1028.918,
+      "z": 0.008607109
+    },
+    {
+      "id": "162",
+      "label": "Leonsis",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -398.7213,
+      "y": 507.8853,
+      "z": 0.0013830534
+    },
+    {
+      "id": "163",
+      "label": "Capitals",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -370.80258,
+      "y": 588.6306,
+      "z": 0.0013664081
+    },
+    {
+      "id": "164",
+      "label": "AOL",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -446.50815,
+      "y": 498.68192,
+      "z": 0.007206564
+    },
+    {
+      "id": "165",
+      "label": "Adelson",
+      "Type": "Owner",
+      "Business Type": "Casino",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 430.29526,
+      "y": -989.5894,
+      "z": 0.0002156592
+    },
+    {
+      "id": "166",
+      "label": "Cuban",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "Politics": "Democrat",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 526.32965,
+      "y": -1038.7626,
+      "z": 0.008401275
+    },
+    {
+      "id": "167",
+      "label": "Ishbia",
+      "Type": "Owner",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 274.84244,
+      "y": -587.19495,
+      "z": 0.004875046
+    },
+    {
+      "id": "168",
+      "label": "UWM",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 298.54926,
+      "y": -628.833,
+      "z": 0.0024205544
+    },
+    {
+      "id": "169",
+      "label": "Bennett",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 309.85373,
+      "y": -445.8153,
+      "z": 0.0015698397
+    },
+    {
+      "id": "170",
+      "label": "Dorchester",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 350.63205,
+      "y": -470.49542,
+      "z": 0.006196084
+    },
+    {
+      "id": "171",
+      "label": "Benson",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 660.61755,
+      "y": -208.52174,
+      "z": 0.0039039366
+    },
+    {
+      "id": "172",
+      "label": "Arison",
+      "Type": "Owner",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 224.73672,
+      "y": -90.142296,
+      "z": 0.008686306
+    },
+    {
+      "id": "173",
+      "label": "Carnival",
+      "Type": "Business",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 271.4055,
+      "y": -98.968666,
+      "z": 0.003396464
+    },
+    {
+      "id": "174",
+      "label": "Hamp",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1633.0103,
+      "y": -19.826378,
+      "z": 0.006113463
+    },
+    {
+      "id": "175",
+      "label": "Ford",
+      "Type": "Business",
+      "Business Type": "Auto",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1663.5353,
+      "y": 18.475492,
+      "z": 0.0027617484
+    },
+    {
+      "id": "176",
+      "label": "Firestone",
+      "Type": "Business",
+      "Business Type": "Auto",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1674.8474,
+      "y": -45.78713,
+      "z": 0.0053078663
+    },
+    {
+      "id": "177",
+      "label": "Taylor",
+      "Type": "Owner",
+      "Business Type": "Printing",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 564.83624,
+      "y": -401.27307,
+      "z": 0.0015869987
+    },
+    {
+      "id": "178",
+      "label": "Taylor Corp",
+      "Type": "Business",
+      "Business Type": "Printing",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 550.24695,
+      "y": -447.99844,
+      "z": 0.0073694717
+    },
+    {
+      "id": "179",
+      "label": "Star Tribune",
+      "Type": "Business",
+      "Business Type": "Newspaper",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 611.9668,
+      "y": -415.29785,
+      "z": 0.00055807084
+    },
+    {
+      "id": "180",
+      "label": "ARod",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "Politics": "Democrat",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 607.71906,
+      "y": -484.12427,
+      "z": 0.009448577
+    },
+    {
+      "id": "183",
+      "label": "Tsai",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 346.40744,
+      "y": -317.66156,
+      "z": 0.008569458
+    },
+    {
+      "id": "184",
+      "label": "Alibaba",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 388.80225,
+      "y": -338.97745,
+      "z": 0.007128842
+    },
+    {
+      "id": "185",
+      "label": "Amway",
+      "Type": "Business",
+      "Business Type": "MLM",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -313.64423,
+      "y": -456.8228,
+      "z": 0.003899533
+    },
+    {
+      "id": "186",
+      "label": "Simon",
+      "Type": "Owner",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1.1703007,
+      "y": -38.525455,
+      "z": 0.008251359
+    },
+    {
+      "id": "187",
+      "label": "Simon Property",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 41.59001,
+      "y": -18.25468,
+      "z": 0.0024911973
+    },
+    {
+      "id": "269",
+      "label": "Stillman",
+      "Type": "Owner",
+      "Business Type": "Beer Distribution",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 170.15388,
+      "y": 1177.1931,
+      "z": 0.008114876
+    },
+    {
+      "id": "190",
+      "label": "Blitzer",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -72.179146,
+      "y": 126.84254,
+      "z": 0.008534116
+    },
+    {
+      "id": "191",
+      "label": "Blackstone",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -113.76558,
+      "y": 153.15587,
+      "z": 0.009995457
+    },
+    {
+      "id": "192",
+      "label": "Devils",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -35.0753,
+      "y": 172.93686,
+      "z": 0.003125478
+    },
+    {
+      "id": "193",
+      "label": "LV Sands",
+      "Type": "Business",
+      "Business Type": "Casino",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 435.46777,
+      "y": -1037.3203,
+      "z": 0.0019160653
+    },
+    {
+      "id": "194",
+      "label": "FL Panthers",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -211.05347,
+      "y": 1395.6045,
+      "z": 0.0041318415
+    },
+    {
+      "id": "195",
+      "label": "Bruins",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -347.31485,
+      "y": 1501.808,
+      "z": 0.001766509
+    },
+    {
+      "id": "196",
+      "label": "Lightning",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -476.88425,
+      "y": 1136.7457,
+      "z": 0.0030203082
+    },
+    {
+      "id": "197",
+      "label": "Sabres",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 684.45667,
+      "y": 839.29004,
+      "z": 0.0048810476
+    },
+    {
+      "id": "198",
+      "label": "Senators",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 102.749504,
+      "y": 1330.0271,
+      "z": -0.00038955774
+    },
+    {
+      "id": "199",
+      "label": "Canadiens",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -91.811775,
+      "y": 1422.8822,
+      "z": 0.0012795466
+    },
+    {
+      "id": "200",
+      "label": "Jordan/Nike",
+      "Type": "Business",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 67.44888,
+      "y": -947.92584,
+      "z": 0.008800152
+    },
+    {
+      "id": "201",
+      "label": "Hurricanes",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -199.08342,
+      "y": 1589.0222,
+      "z": 0.0063885027
+    },
+    {
+      "id": "202",
+      "label": "Islanders",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 655.82794,
+      "y": 1616.5148,
+      "z": 0.009854807
+    },
+    {
+      "id": "203",
+      "label": "Flyers",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -320.08585,
+      "y": 1320.475,
+      "z": 0.009827703
+    },
+    {
+      "id": "204",
+      "label": "Blue Jackets",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -630.8462,
+      "y": 1196.6101,
+      "z": 0.008108025
+    },
+    {
+      "id": "205",
+      "label": "Stars",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 94.98572,
+      "y": 1575.2375,
+      "z": 0.0020843088
+    },
+    {
+      "id": "206",
+      "label": "W Jets",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 16.626083,
+      "y": 1403.3422,
+      "z": 0.0021486222
+    },
+    {
+      "id": "207",
+      "label": "Predators",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 400.97195,
+      "y": 721.50024,
+      "z": 0.0040717823
+    },
+    {
+      "id": "208",
+      "label": "Blues",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 119.27178,
+      "y": 1166.9718,
+      "z": 0.0046307733
+    },
+    {
+      "id": "209",
+      "label": "Wild",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -527.5357,
+      "y": 949.2978,
+      "z": 0.008831568
+    },
+    {
+      "id": "210",
+      "label": "Coyotes",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -519.269,
+      "y": 1358.6194,
+      "z": 0.010149028
+    },
+    {
+      "id": "211",
+      "label": "Blackhawks",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -372.63553,
+      "y": 1032.2913,
+      "z": 0.010313378
+    },
+    {
+      "id": "212",
+      "label": "Chelsea FC",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -664.14844,
+      "y": -795.85406,
+      "z": 0.008104632
+    },
+    {
+      "id": "213",
+      "label": "Canucks",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -308.42392,
+      "y": 1163.8982,
+      "z": 0.004236397
+    },
+    {
+      "id": "214",
+      "label": "Crew",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 563.1673,
+      "y": 563.4303,
+      "z": 0.0060762092
+    },
+    {
+      "id": "215",
+      "label": "Bisciotti",
+      "Type": "Owner",
+      "Business Type": "Staffing",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1480.0801,
+      "y": -435.20578,
+      "z": 0.0033757854
+    },
+    {
+      "id": "216",
+      "label": "Aerotek",
+      "Type": "Business",
+      "Business Type": "Staffing",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1512.1484,
+      "y": -471.05075,
+      "z": 0.0057231886
+    },
+    {
+      "id": "217",
+      "label": "Rooney",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1453.4518,
+      "y": -92.36474,
+      "z": 0.008501681
+    },
+    {
+      "id": "218",
+      "label": "Mara",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1179.6727,
+      "y": -545.3683,
+      "z": 0.003552391
+    },
+    {
+      "id": "219",
+      "label": "Tisch",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1243.4607,
+      "y": -539.4778,
+      "z": 0.00025593085
+    },
+    {
+      "id": "220",
+      "label": "Oilers",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 302.93518,
+      "y": 1352.8772,
+      "z": 0.006131836
+    },
+    {
+      "id": "221",
+      "label": "LA Kings",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1060.5399,
+      "y": 1651.4562,
+      "z": 0.001484933
+    },
+    {
+      "id": "222",
+      "label": "G Knights",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -576.2121,
+      "y": 1635.0769,
+      "z": 0.004339942
+    },
+    {
+      "id": "223",
+      "label": "Flames",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -46.06054,
+      "y": 1654.4141,
+      "z": 0.003409617
+    },
+    {
+      "id": "224",
+      "label": "Kraken",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 132.88577,
+      "y": 605.8046,
+      "z": 0.0039366544
+    },
+    {
+      "id": "225",
+      "label": "Ducks",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 320.13828,
+      "y": 1198.9614,
+      "z": 0.003344433
+    },
+    {
+      "id": "226",
+      "label": "Sharks",
+      "Type": "Team",
+      "Business Type": "Hockey",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 219.19618,
+      "y": 1487.9335,
+      "z": 0.0061158375
+    },
+    {
+      "id": "227",
+      "label": "Walton-Penner",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 758.58453,
+      "y": 113.78722,
+      "z": 0.005397638
+    },
+    {
+      "id": "228",
+      "label": "Walmart",
+      "Type": "Business",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 693.73846,
+      "y": 134.93028,
+      "z": 0.003023083
+    },
+    {
+      "id": "229",
+      "label": "Jones",
+      "Type": "Owner",
+      "Business Type": "Insurance",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1391.5537,
+      "y": -302.30557,
+      "z": 0.009933047
+    },
+    {
+      "id": "230",
+      "label": "McClaskey",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1287.7424,
+      "y": -390.57828,
+      "z": 0.00503722
+    },
+    {
+      "id": "231",
+      "label": "Bidwill",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1024.2502,
+      "y": -337.12616,
+      "z": 0.0038553814
+    },
+    {
+      "id": "232",
+      "label": "CW Johnson",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1540.9904,
+      "y": 176.4719,
+      "z": 0.0031720262
+    },
+    {
+      "id": "233",
+      "label": "Johnson Co",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1580.1173,
+      "y": 204.33734,
+      "z": 0.0007129581
+    },
+    {
+      "id": "234",
+      "label": "Hunt",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 447.73276,
+      "y": -194.12927,
+      "z": 0.004815062
+    },
+    {
+      "id": "235",
+      "label": "FC Dallas",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 427.9356,
+      "y": -150.02748,
+      "z": 0.0020271777
+    },
+    {
+      "id": "236",
+      "label": "Khan",
+      "Type": "Owner",
+      "Business Type": "Industrial Supplier",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1090.3771,
+      "y": -650.22943,
+      "z": 0.0028168284
+    },
+    {
+      "id": "237",
+      "label": "Flex-N-Gate",
+      "Type": "Business",
+      "Business Type": "Industrial Supplier",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1089.5121,
+      "y": -698.38324,
+      "z": 0.009293627
+    },
+    {
+      "id": "238",
+      "label": "Kraft",
+      "Type": "Owner",
+      "Business Type": "Office Supply",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1296.8577,
+      "y": 302.55576,
+      "z": 0.0034331866
+    },
+    {
+      "id": "239",
+      "label": "Revolution",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1311.7383,
+      "y": 347.52078,
+      "z": 0.0016209373
+    },
+    {
+      "id": "240",
+      "label": "Strunk",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1095.9658,
+      "y": -440.96686,
+      "z": 0.0024917184
+    },
+    {
+      "id": "241",
+      "label": "Brown",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1509.0604,
+      "y": -229.01657,
+      "z": 0.010013912
+    },
+    {
+      "id": "242",
+      "label": "McNair",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1449.9491,
+      "y": 313.24417,
+      "z": 0.009701264
+    },
+    {
+      "id": "243",
+      "label": "Cogen",
+      "Type": "Business",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1478.8757,
+      "y": 351.6678,
+      "z": 0.0029686454
+    },
+    {
+      "id": "244",
+      "label": "The Public",
+      "Type": "Owner",
+      "Business Type": "Public",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1102.3486,
+      "y": 207.61595,
+      "z": 0.008401217
+    },
+    {
+      "id": "245",
+      "label": "Irsay",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 964.8995,
+      "y": -456.83347,
+      "z": 0.004750797
+    },
+    {
+      "id": "246",
+      "label": "Glazer",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1843.7657,
+      "y": -154.89583,
+      "z": 0.002479947
+    },
+    {
+      "id": "247",
+      "label": "Manchester Utd",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1872.5425,
+      "y": -193.50494,
+      "z": 0.009804853
+    },
+    {
+      "id": "248",
+      "label": "1st Allied",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1888.8376,
+      "y": -134.764,
+      "z": 0.0071004247
+    },
+    {
+      "id": "249",
+      "label": "Tepper",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1902.4736,
+      "y": 145.58223,
+      "z": 0.001784525
+    },
+    {
+      "id": "250",
+      "label": "Appaloosa",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1911.6097,
+      "y": 193.51996,
+      "z": 0.003864182
+    },
+    {
+      "id": "251",
+      "label": "Charlotte FC",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1951.6398,
+      "y": 142.993,
+      "z": 0.00667982
+    },
+    {
+      "id": "252",
+      "label": "York",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1308.6339,
+      "y": 655.7872,
+      "z": 0.004401462
+    },
+    {
+      "id": "253",
+      "label": "DeBartolo",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1349.0457,
+      "y": 683.45105,
+      "z": 0.007121041
+    },
+    {
+      "id": "254",
+      "label": "Leeds Utd",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1292.1443,
+      "y": 702.3768,
+      "z": 0.006240152
+    },
+    {
+      "id": "255",
+      "label": "Davis",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1369.2015,
+      "y": 111.04518,
+      "z": 0.0066573075
+    },
+    {
+      "id": "256",
+      "label": "Spanos",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 902.13794,
+      "y": -306.5012,
+      "z": 0.008489987
+    },
+    {
+      "id": "257",
+      "label": "Wilf",
+      "Type": "Owner",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1741.6534,
+      "y": -569.22845,
+      "z": 0.005198194
+    },
+    {
+      "id": "258",
+      "label": "Orlando City",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1736.6079,
+      "y": -617.67786,
+      "z": 0.00035866976
+    },
+    {
+      "id": "259",
+      "label": "Garden Homes",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1788.6555,
+      "y": -584.53534,
+      "z": 0.00975995
+    },
+    {
+      "id": "260",
+      "label": "Ross",
+      "Type": "Owner",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1148.4574,
+      "y": 363.33688,
+      "z": 0.0033199827
+    },
+    {
+      "id": "261",
+      "label": "Related Co",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1148.2643,
+      "y": 411.00934,
+      "z": 0.004507465
+    },
+    {
+      "id": "262",
+      "label": "Blank",
+      "Type": "Owner",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1527.3525,
+      "y": -858.9329,
+      "z": 0.0043137553
+    },
+    {
+      "id": "263",
+      "label": "Home Depot",
+      "Type": "Business",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1513.6172,
+      "y": -906.54333,
+      "z": 0.008442903
+    },
+    {
+      "id": "264",
+      "label": "Atlanta Utd",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 1568.0977,
+      "y": -886.4271,
+      "z": 0.0012818488
+    },
+    {
+      "id": "265",
+      "label": "Pegula",
+      "Type": "Owner",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 757.1558,
+      "y": 801.8499,
+      "z": 0.0013752942
+    },
+    {
+      "id": "266",
+      "label": "East Resources",
+      "Type": "Business",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 788.73956,
+      "y": 838.7976,
+      "z": 0.009028729
+    },
+    {
+      "id": "267",
+      "label": "Lurie",
+      "Type": "Owner",
+      "Business Type": "Film Production",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1352.9021,
+      "y": -616.7019,
+      "z": 0.006550348
+    },
+    {
+      "id": "268",
+      "label": "Chestnut Hill",
+      "Type": "Business",
+      "Business Type": "Film Production",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 1367.168,
+      "y": -662.72284,
+      "z": 0.0082929
+    },
+    {
+      "id": "270",
+      "label": "Summit Distr",
+      "Type": "Business",
+      "Business Type": "Beer Distribution",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 216.85278,
+      "y": 1187.3344,
+      "z": 0.0047781994
+    },
+    {
+      "id": "271",
+      "label": "Astros",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1306.0139,
+      "y": -116.26191,
+      "z": 0.004816694
+    },
+    {
+      "id": "272",
+      "label": "Crane",
+      "Type": "Owner",
+      "Business Type": "Logistics",
+      "Politics": "Democrat",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1328.6094,
+      "y": -62.974,
+      "z": 0.009456902
+    },
+    {
+      "id": "273",
+      "label": "Crane Capital",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1344.3706,
+      "y": -19.09173,
+      "z": 0.0016641826
+    },
+    {
+      "id": "274",
+      "label": "Bruckheimer",
+      "Type": "Owner",
+      "Business Type": "Film Production",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 179.34277,
+      "y": 649.5428,
+      "z": 0.0072127064
+    },
+    {
+      "id": "275",
+      "label": "Bonderman",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 89.22292,
+      "y": 514.7122,
+      "z": 0.0018658921
+    },
+    {
+      "id": "276",
+      "label": "TPG Capital",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 42.24192,
+      "y": 523.5247,
+      "z": 0.0035975343
+    },
+    {
+      "id": "277",
+      "label": "Leiweke",
+      "Type": "Owner",
+      "Business Type": "Sports",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 195.56549,
+      "y": 489.30307,
+      "z": 0.0035325803
+    },
+    {
+      "id": "278",
+      "label": "Sounders",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 216.6138,
+      "y": 345.7343,
+      "z": 0.0091275545
+    },
+    {
+      "id": "279",
+      "label": "Hanauer",
+      "Type": "Owner",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 188.08702,
+      "y": 411.3191,
+      "z": 0.000760769
+    },
+    {
+      "id": "280",
+      "label": "Drew Carey",
+      "Type": "Owner",
+      "Business Type": "Entertainment",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 155.61446,
+      "y": 272.0453,
+      "z": 0.009573988
+    },
+    {
+      "id": "281",
+      "label": "Nadella",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 268.09912,
+      "y": 175.6908,
+      "z": 0.006948117
+    },
+    {
+      "id": "282",
+      "label": "Marshawn Lynch",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 1003.97754,
+      "y": 1325.2565,
+      "z": 0.0
+    },
+    {
+      "id": "283",
+      "label": "Will Smith",
+      "Type": "Owner",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 785.264,
+      "y": 1069.2185,
+      "z": 0.0
+    },
+    {
+      "id": "284",
+      "label": "Pagliuca",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 31.784924,
+      "y": 332.1579,
+      "z": 0.0
+    },
+    {
+      "id": "285",
+      "label": "Bain",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 17.561375,
+      "y": 377.53394,
+      "z": 0.0
+    },
+    {
+      "id": "286",
+      "label": "Real Madrid",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 354.5536,
+      "y": -1584.758,
+      "z": 0.0
+    },
+    {
+      "id": "287",
+      "label": "Jobs",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -450.59427,
+      "y": 587.90137,
+      "z": 0.0
+    },
+    {
+      "id": "288",
+      "label": "Apple",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -484.52844,
+      "y": 623.5396,
+      "z": 0.0
+    },
+    {
+      "id": "289",
+      "label": "McConnell",
+      "Type": "Owner",
+      "Business Type": "Industrial Supplier",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -685.0116,
+      "y": 1205.5933,
+      "z": 0.0
+    },
+    {
+      "id": "290",
+      "label": "Worthington",
+      "Type": "Business",
+      "Business Type": "Industrial Supplier",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -732.3989,
+      "y": 1212.4264,
+      "z": 0.0
+    },
+    {
+      "id": "291",
+      "label": "Viola",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -226.56548,
+      "y": 1443.1718,
+      "z": 0.0
+    },
+    {
+      "id": "292",
+      "label": "Leipold",
+      "Type": "Owner",
+      "Business Type": "Marketing",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -586.93646,
+      "y": 950.40906,
+      "z": 0.0
+    },
+    {
+      "id": "293",
+      "label": "Ameritel",
+      "Type": "Business",
+      "Business Type": "Marketing",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -634.7026,
+      "y": 951.18384,
+      "z": 0.0
+    },
+    {
+      "id": "294",
+      "label": "Jacobs",
+      "Type": "Owner",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -375.36475,
+      "y": 1549.2268,
+      "z": 0.0
+    },
+    {
+      "id": "295",
+      "label": "Delaware North",
+      "Type": "Business",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -398.76862,
+      "y": 1590.8508,
+      "z": 0.0
+    },
+    {
+      "id": "296",
+      "label": "Aaron Rodgers",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 635.32935,
+      "y": 607.2864,
+      "z": 0.0
+    },
+    {
+      "id": "297",
+      "label": "Chipman",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 35.468536,
+      "y": 1449.5872,
+      "z": 0.0
+    },
+    {
+      "id": "298",
+      "label": "Danaher",
+      "Type": "Business",
+      "Business Type": "Industrial Supplier",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 394.31808,
+      "y": -58.269585,
+      "z": 0.0
+    },
+    {
+      "id": "299",
+      "label": "Dundon",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -209.35344,
+      "y": 1643.0845,
+      "z": 0.0
+    },
+    {
+      "id": "300",
+      "label": "Dundon Capital",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -217.60732,
+      "y": 1689.6412,
+      "z": 0.0
+    },
+    {
+      "id": "301",
+      "label": "B Haslam",
+      "Type": "Owner",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 448.7184,
+      "y": 669.2803,
+      "z": 0.0
+    },
+    {
+      "id": "302",
+      "label": "Foley",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -620.9189,
+      "y": 1685.3911,
+      "z": 0.0
+    },
+    {
+      "id": "303",
+      "label": "FIS",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -667.9058,
+      "y": 1671.9202,
+      "z": 0.0
+    },
+    {
+      "id": "304",
+      "label": "Bournemouth",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -645.6939,
+      "y": 1736.6702,
+      "z": 0.0
+    },
+    {
+      "id": "305",
+      "label": "Michael B Jordan",
+      "Type": "Owner",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -710.6446,
+      "y": 1815.5896,
+      "z": 0.0
+    },
+    {
+      "id": "306",
+      "label": "Plattner",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 255.1426,
+      "y": 1529.9362,
+      "z": 0.0
+    },
+    {
+      "id": "307",
+      "label": "SAP",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 287.0073,
+      "y": 1565.7948,
+      "z": 0.0
+    },
+    {
+      "id": "308",
+      "label": "Aquilini",
+      "Type": "Owner",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -353.5777,
+      "y": 1184.9258,
+      "z": 0.0
+    },
+    {
+      "id": "309",
+      "label": "Andlauer",
+      "Type": "Owner",
+      "Business Type": "Healthcare",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 139.2013,
+      "y": 1364.1344,
+      "z": 0.0
+    },
+    {
+      "id": "310",
+      "label": "Meruelo",
+      "Type": "Owner",
+      "Business Type": "Food",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -567.18164,
+      "y": 1384.9393,
+      "z": 0.0
+    },
+    {
+      "id": "311",
+      "label": "Fuji",
+      "Type": "Business",
+      "Business Type": "Food",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -611.1512,
+      "y": 1403.5752,
+      "z": 0.0
+    },
+    {
+      "id": "312",
+      "label": "Gaglardi",
+      "Type": "Owner",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 116.59386,
+      "y": 1627.1395,
+      "z": 0.0
+    },
+    {
+      "id": "313",
+      "label": "Northland Prop",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 136.59009,
+      "y": 1670.9603,
+      "z": 0.0
+    },
+    {
+      "id": "314",
+      "label": "Vinik",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -523.7324,
+      "y": 1171.0533,
+      "z": 0.0
+    },
+    {
+      "id": "315",
+      "label": "Fidelity",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -554.35156,
+      "y": 1207.7355,
+      "z": 0.0
+    },
+    {
+      "id": "316",
+      "label": "Molson",
+      "Type": "Owner",
+      "Business Type": "Beer Distribution",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -89.40103,
+      "y": 1473.0753,
+      "z": 0.0
+    },
+    {
+      "id": "317",
+      "label": "Ledecky",
+      "Type": "Owner",
+      "Business Type": "Office Supply",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 812.3993,
+      "y": 1689.7015,
+      "z": 0.0
+    },
+    {
+      "id": "318",
+      "label": "Malkin",
+      "Type": "Owner",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 686.44086,
+      "y": 1678.6537,
+      "z": 0.0
+    },
+    {
+      "id": "319",
+      "label": "Value Retail",
+      "Type": "Business",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 703.27844,
+      "y": 1722.2825,
+      "z": 0.0
+    },
+    {
+      "id": "320",
+      "label": "US Office Products",
+      "Type": "Business",
+      "Business Type": "Office Supply",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 855.9469,
+      "y": 1709.67,
+      "z": 0.0
+    },
+    {
+      "id": "321",
+      "label": "CO Rapids",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": 694.44,
+      "y": 279.02652,
+      "z": 0.0
+    },
+    {
+      "id": "322",
+      "label": "Anschutz",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1148.6678,
+      "y": 1703.8859,
+      "z": 0.0
+    },
+    {
+      "id": "323",
+      "label": "Wash Examiner",
+      "Type": "Business",
+      "Business Type": "Newspaper",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1143.5377,
+      "y": 1753.4885,
+      "z": 0.0
+    },
+    {
+      "id": "324",
+      "label": "Galaxy",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1099.4526,
+      "y": 1714.5779,
+      "z": 0.0
+    },
+    {
+      "id": "325",
+      "label": "Circle A",
+      "Type": "Business",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1195.519,
+      "y": 1683.5132,
+      "z": 0.0
+    },
+    {
+      "id": "326",
+      "label": "AEG",
+      "Type": "Business",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1201.6638,
+      "y": 1761.0309,
+      "z": 0.0
+    },
+    {
+      "id": "327",
+      "label": "Coachella",
+      "Type": "Business",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1225.9004,
+      "y": 1801.9155,
+      "z": 0.0
+    },
+    {
+      "id": "329",
+      "label": "Katz",
+      "Type": "Owner",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 350.758,
+      "y": 1381.662,
+      "z": 0.0
+    },
+    {
+      "id": "330",
+      "label": "Rexall",
+      "Type": "Business",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 392.37582,
+      "y": 1406.0317,
+      "z": 0.0
+    },
+    {
+      "id": "331",
+      "label": "Comcast",
+      "Type": "Owner",
+      "Business Type": "Media",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -357.65372,
+      "y": 1353.3009,
+      "z": 0.0
+    },
+    {
+      "id": "332",
+      "label": "Edwards",
+      "Type": "Owner",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -39.455383,
+      "y": 1710.0776,
+      "z": 0.0
+    },
+    {
+      "id": "333",
+      "label": "CNRL",
+      "Type": "Business",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -33.567635,
+      "y": 1757.8954,
+      "z": 0.0
+    },
+    {
+      "id": "334",
+      "label": "Samueli",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": 373.28268,
+      "y": 1210.6782,
+      "z": 0.0
+    },
+    {
+      "id": "335",
+      "label": "Broadcom",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 420.0075,
+      "y": 1220.5258,
+      "z": 0.0
+    },
+    {
+      "id": "336",
+      "label": "Wirtz",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -419.6101,
+      "y": 1016.49536,
+      "z": 0.0
+    },
+    {
+      "id": "337",
+      "label": "Yankees",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1570.5165,
+      "y": -983.0228,
+      "z": 0.0
+    },
+    {
+      "id": "338",
+      "label": "Steinbrenner",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1593.8694,
+      "y": -1045.844,
+      "z": 0.0
+    },
+    {
+      "id": "339",
+      "label": "NYC FC",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1637.4415,
+      "y": -1089.0876,
+      "z": 0.0
+    },
+    {
+      "id": "340",
+      "label": "AC Milan",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1567.2395,
+      "y": -1123.9679,
+      "z": 0.0
+    },
+    {
+      "id": "341",
+      "label": "Orioles",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -916.9552,
+      "y": -907.1595,
+      "z": 0.0
+    },
+    {
+      "id": "342",
+      "label": "Crown",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1642.8687,
+      "y": -1190.7635,
+      "z": 0.0
+    },
+    {
+      "id": "343",
+      "label": "General Dynamics",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1656.725,
+      "y": -1236.1038,
+      "z": 0.0
+    },
+    {
+      "id": "344",
+      "label": "Rubenstein",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -882.7018,
+      "y": -972.45807,
+      "z": 0.0
+    },
+    {
+      "id": "345",
+      "label": "Carlye Group",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -857.12256,
+      "y": -1011.9513,
+      "z": 0.0
+    },
+    {
+      "id": "346",
+      "label": "Cal Ripkin Jr",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -865.74384,
+      "y": -1139.6962,
+      "z": 0.0
+    },
+    {
+      "id": "347",
+      "label": "Rays",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1215.635,
+      "y": -582.72125,
+      "z": 0.0
+    },
+    {
+      "id": "348",
+      "label": "Sternberg",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1217.4337,
+      "y": -634.97705,
+      "z": 0.0
+    },
+    {
+      "id": "349",
+      "label": "Blue Jays",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1590.8737,
+      "y": -484.58322,
+      "z": 0.0
+    },
+    {
+      "id": "350",
+      "label": "Guardians",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1522.2677,
+      "y": -218.27892,
+      "z": 0.0
+    },
+    {
+      "id": "351",
+      "label": "Royals",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1392.5355,
+      "y": -824.4636,
+      "z": 0.0
+    },
+    {
+      "id": "352",
+      "label": "Twins",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1765.8138,
+      "y": -508.58328,
+      "z": 0.0
+    },
+    {
+      "id": "353",
+      "label": "Mariners",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1253.191,
+      "y": -982.6556,
+      "z": 0.0
+    },
+    {
+      "id": "354",
+      "label": "TX Rangers",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1986.2029,
+      "y": -185.41888,
+      "z": 0.0
+    },
+    {
+      "id": "355",
+      "label": "Athletics",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1810.8225,
+      "y": -836.0138,
+      "z": 0.0
+    },
+    {
+      "id": "356",
+      "label": "Angels",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1653.5381,
+      "y": -678.1994,
+      "z": 0.0
+    },
+    {
+      "id": "357",
+      "label": "Phillies",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1723.8722,
+      "y": -361.43872,
+      "z": 0.0
+    },
+    {
+      "id": "358",
+      "label": "Braves",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1750.2765,
+      "y": -31.359154,
+      "z": 0.0
+    },
+    {
+      "id": "359",
+      "label": "Nationals",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1349.5079,
+      "y": -661.28375,
+      "z": 0.0
+    },
+    {
+      "id": "360",
+      "label": "Mets",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1496.2324,
+      "y": -11.936178,
+      "z": 0.0
+    },
+    {
+      "id": "361",
+      "label": "Cubs",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1589.3926,
+      "y": 387.60614,
+      "z": 0.0
+    },
+    {
+      "id": "362",
+      "label": "Cardinals",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1427.0582,
+      "y": 133.08714,
+      "z": 0.0
+    },
+    {
+      "id": "363",
+      "label": "Pirates",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1153.5902,
+      "y": -1183.8883,
+      "z": 0.0
+    },
+    {
+      "id": "364",
+      "label": "Reds",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1480.0454,
+      "y": -586.5938,
+      "z": 0.0
+    },
+    {
+      "id": "365",
+      "label": "Padres",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1234.8374,
+      "y": 26.95266,
+      "z": 0.0
+    },
+    {
+      "id": "366",
+      "label": "D-Backs",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1690.3682,
+      "y": -221.08284,
+      "z": 0.0
+    },
+    {
+      "id": "367",
+      "label": "SF Giants",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1133.1888,
+      "y": -154.92592,
+      "z": 0.0
+    },
+    {
+      "id": "368",
+      "label": "Rockies",
+      "Type": "Team",
+      "Business Type": "Baseball",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1617.8087,
+      "y": -26.970865,
+      "z": 0.0
+    },
+    {
+      "id": "369",
+      "label": "Bloomberg",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "Politics": "Democrat",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -923.9434,
+      "y": -1052.8988,
+      "z": 0.0
+    },
+    {
+      "id": "370",
+      "label": "DeWitt",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1439.3691,
+      "y": 181.46706,
+      "z": 0.0
+    },
+    {
+      "id": "373",
+      "label": "Castellini",
+      "Type": "Owner",
+      "Business Type": "Food",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1508.7904,
+      "y": -631.31903,
+      "z": 0.0
+    },
+    {
+      "id": "374",
+      "label": "Castellini Co",
+      "Type": "Business",
+      "Business Type": "Food",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1528.1989,
+      "y": -674.51917,
+      "z": 0.0
+    },
+    {
+      "id": "375",
+      "label": "CB Johnson",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1104.5576,
+      "y": -106.48536,
+      "z": 0.0
+    },
+    {
+      "id": "376",
+      "label": "Franklin Templeton",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1082.0742,
+      "y": -64.35757,
+      "z": 0.0
+    },
+    {
+      "id": "377",
+      "label": "L Dolan",
+      "Type": "Owner",
+      "Business Type": "Law",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1559.9645,
+      "y": -186.37195,
+      "z": 0.0
+    },
+    {
+      "id": "378",
+      "label": "Rogers Comm",
+      "Type": "Owner",
+      "Business Type": "Media",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1635.9575,
+      "y": -505.75427,
+      "z": 0.0
+    },
+    {
+      "id": "379",
+      "label": "J Sherman",
+      "Type": "Owner",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1400.724,
+      "y": -877.6058,
+      "z": 0.0
+    },
+    {
+      "id": "380",
+      "label": "Inergy",
+      "Type": "Business",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1404.5974,
+      "y": -925.35,
+      "z": 0.0
+    },
+    {
+      "id": "381",
+      "label": "Stanton",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1244.8429,
+      "y": -1041.9247,
+      "z": 0.0
+    },
+    {
+      "id": "382",
+      "label": "Trilogy Intl",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1235.6287,
+      "y": -1088.1316,
+      "z": 0.0
+    },
+    {
+      "id": "383",
+      "label": "Moreno",
+      "Type": "Owner",
+      "Business Type": "Media",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1693.7229,
+      "y": -714.1019,
+      "z": 0.0
+    },
+    {
+      "id": "384",
+      "label": "Outdoor Sys",
+      "Type": "Business",
+      "Business Type": "Media",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1728.4143,
+      "y": -747.0224,
+      "z": 0.0
+    },
+    {
+      "id": "385",
+      "label": "Seidler",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1238.2463,
+      "y": 86.16499,
+      "z": 0.0
+    },
+    {
+      "id": "386",
+      "label": "Seidler Equity",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1242.0863,
+      "y": 133.88197,
+      "z": 0.0
+    },
+    {
+      "id": "387",
+      "label": "Fisher",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1857.943,
+      "y": -883.39984,
+      "z": 0.0
+    },
+    {
+      "id": "388",
+      "label": "Earthquakes",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1906.6864,
+      "y": -877.4247,
+      "z": 0.0
+    },
+    {
+      "id": "389",
+      "label": "Gap",
+      "Type": "Business",
+      "Business Type": "Retail",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1872.9391,
+      "y": -930.51575,
+      "z": 0.0
+    },
+    {
+      "id": "390",
+      "label": "Middleton",
+      "Type": "Owner",
+      "Business Type": "Tobacco",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1778.6143,
+      "y": -359.62686,
+      "z": 0.0
+    },
+    {
+      "id": "391",
+      "label": "Middleton Co.",
+      "Type": "Business",
+      "Business Type": "Tobacco",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1826.3494,
+      "y": -358.4885,
+      "z": 0.0
+    },
+    {
+      "id": "392",
+      "label": "Liberty",
+      "Type": "Owner",
+      "Business Type": "Media",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1791.9473,
+      "y": 5.049125,
+      "z": 0.0
+    },
+    {
+      "id": "393",
+      "label": "F1",
+      "Type": "Team",
+      "Business Type": "Racing",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1824.2355,
+      "y": 38.89395,
+      "z": 0.0
+    },
+    {
+      "id": "394",
+      "label": "Pohlad",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1818.3528,
+      "y": -524.09204,
+      "z": 0.0
+    },
+    {
+      "id": "395",
+      "label": "Nutting",
+      "Type": "Owner",
+      "Business Type": "Entertainment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1134.3815,
+      "y": -1255.9768,
+      "z": 0.0
+    },
+    {
+      "id": "396",
+      "label": "Ogden News",
+      "Type": "Business",
+      "Business Type": "Newspaper",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1160.7318,
+      "y": -1297.029,
+      "z": 0.0
+    },
+    {
+      "id": "397",
+      "label": "Seven Springs",
+      "Type": "Business",
+      "Business Type": "Real Estate",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1101.1116,
+      "y": -1292.4536,
+      "z": 0.0
+    },
+    {
+      "id": "398",
+      "label": "Kendrick",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1740.7828,
+      "y": -200.29004,
+      "z": 0.0
+    },
+    {
+      "id": "399",
+      "label": "Datatel",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1784.1909,
+      "y": -182.40439,
+      "z": 0.0
+    },
+    {
+      "id": "400",
+      "label": "Ricketts",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1633.7643,
+      "y": 483.10507,
+      "z": 0.0
+    },
+    {
+      "id": "401",
+      "label": "Incapital",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1679.4756,
+      "y": 499.64825,
+      "z": 0.0
+    },
+    {
+      "id": "402",
+      "label": "TD Ameritrade",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1627.0992,
+      "y": 531.4325,
+      "z": 0.0
+    },
+    {
+      "id": "403",
+      "label": "Lerner",
+      "Type": "Owner",
+      "Business Type": "Family Business",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1350.1327,
+      "y": -710.9997,
+      "z": 0.0
+    },
+    {
+      "id": "404",
+      "label": "Cohen",
+      "Type": "Owner",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1519.2736,
+      "y": 37.872223,
+      "z": 0.0
+    },
+    {
+      "id": "405",
+      "label": "Point72",
+      "Type": "Business",
+      "Business Type": "Investment",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1538.3265,
+      "y": 81.763466,
+      "z": 0.0
+    },
+    {
+      "id": "406",
+      "label": "R Davis",
+      "Type": "Owner",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -2026.2175,
+      "y": -137.55043,
+      "z": 0.0
+    },
+    {
+      "id": "407",
+      "label": "ETP",
+      "Type": "Business",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -2058.2979,
+      "y": -101.919624,
+      "z": 0.0
+    },
+    {
+      "id": "408",
+      "label": "Simpson",
+      "Type": "Owner",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -2046.7378,
+      "y": -204.55467,
+      "z": 0.0
+    },
+    {
+      "id": "409",
+      "label": "XTO Energy",
+      "Type": "Business",
+      "Business Type": "Energy",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -2094.78,
+      "y": -208.85037,
+      "z": 0.0
+    },
+    {
+      "id": "410",
+      "label": "Monfort",
+      "Type": "Owner",
+      "Business Type": "Food",
+      "Politics": "Republican",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1650.1814,
+      "y": 18.37127,
+      "z": 0.0
+    },
+    {
+      "id": "411",
+      "label": "ConAgra",
+      "Type": "Business",
+      "Business Type": "Food",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -1674.9232,
+      "y": 59.339417,
+      "z": 0.0
+    },
+    {
+      "id": "412",
+      "label": "Naimoli",
+      "Type": "Owner",
+      "Business Type": "Mob?",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -1137.0365,
+      "y": -624.70294,
+      "z": 0.0
+    },
+    {
+      "id": "413",
+      "label": "Broadcast.com",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": 557.90936,
+      "y": -1078.0831,
+      "z": 0.0
+    },
+    {
+      "id": "414",
+      "label": "Jacobs",
+      "Type": "Owner",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -203.0402,
+      "y": -1160.3339,
+      "z": 0.0
+    },
+    {
+      "id": "415",
+      "label": "Qualcomm",
+      "Type": "Business",
+      "Business Type": "Technology",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -217.10138,
+      "y": -1206.1238,
+      "z": 0.0
+    },
+    {
+      "id": "416",
+      "label": "Mastrov",
+      "Type": "Owner",
+      "Business Type": "Fitness",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -86.738625,
+      "y": -1162.0272,
+      "z": 0.0
+    },
+    {
+      "id": "417",
+      "label": "24 Hr Fitness",
+      "Type": "Business",
+      "Business Type": "Fitness",
+      "size": 20.0,
+      "r": 130,
+      "g": 130,
+      "b": 130,
+      "x": -79.09945,
+      "y": -1209.4878,
+      "z": 0.0
+    },
+    {
+      "id": "418",
+      "label": "D Wade",
+      "Type": "Owner",
+      "Business Type": "Former Player",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -297.34238,
+      "y": -27.380049,
+      "z": 0.0
+    },
+    {
+      "id": "419",
+      "label": "Arctos",
+      "Type": "Owner",
+      "Business Type": "Sports",
+      "size": 20.0,
+      "r": 73,
+      "g": 173,
+      "b": 0,
+      "x": -674.6407,
+      "y": 58.551872,
+      "z": 0.0
+    },
+    {
+      "id": "420",
+      "label": "Minn Utd",
+      "Type": "Team",
+      "Business Type": "Soccer",
+      "size": 20.0,
+      "r": 255,
+      "g": 133,
+      "b": 11,
+      "x": -1902.6089,
+      "y": -549.32446,
+      "z": 0.0
+    }
+  ],
+  "links": [
+    {
+      "source": "0",
+      "target": "1",
+      "weight": 1.0,
+      "id": "0"
+    },
+    {
+      "source": "0",
+      "target": "2",
+      "weight": 1.0,
+      "id": "1"
+    },
+    {
+      "source": "0",
+      "target": "3",
+      "weight": 1.0,
+      "id": "2"
+    },
+    {
+      "source": "0",
+      "target": "4",
+      "weight": 1.0,
+      "id": "3"
+    },
+    {
+      "source": "0",
+      "target": "5",
+      "weight": 1.0,
+      "id": "4"
+    },
+    {
+      "source": "0",
+      "target": "6",
+      "weight": 1.0,
+      "id": "5"
+    },
+    {
+      "source": "0",
+      "target": "7",
+      "weight": 1.0,
+      "id": "6"
+    },
+    {
+      "source": "0",
+      "target": "8",
+      "weight": 1.0,
+      "id": "7"
+    },
+    {
+      "source": "0",
+      "target": "9",
+      "weight": 1.0,
+      "id": "8"
+    },
+    {
+      "source": "0",
+      "target": "10",
+      "weight": 1.0,
+      "id": "9"
+    },
+    {
+      "source": "0",
+      "target": "11",
+      "weight": 1.0,
+      "id": "10"
+    },
+    {
+      "source": "0",
+      "target": "12",
+      "weight": 1.0,
+      "id": "11"
+    },
+    {
+      "source": "0",
+      "target": "13",
+      "weight": 1.0,
+      "id": "12"
+    },
+    {
+      "source": "0",
+      "target": "14",
+      "weight": 1.0,
+      "id": "13"
+    },
+    {
+      "source": "0",
+      "target": "15",
+      "weight": 1.0,
+      "id": "14"
+    },
+    {
+      "source": "0",
+      "target": "16",
+      "weight": 1.0,
+      "id": "15"
+    },
+    {
+      "source": "0",
+      "target": "17",
+      "weight": 1.0,
+      "id": "16"
+    },
+    {
+      "source": "0",
+      "target": "18",
+      "weight": 1.0,
+      "id": "17"
+    },
+    {
+      "source": "0",
+      "target": "19",
+      "weight": 1.0,
+      "id": "18"
+    },
+    {
+      "source": "0",
+      "target": "20",
+      "weight": 1.0,
+      "id": "19"
+    },
+    {
+      "source": "0",
+      "target": "21",
+      "weight": 1.0,
+      "id": "20"
+    },
+    {
+      "source": "0",
+      "target": "22",
+      "weight": 1.0,
+      "id": "21"
+    },
+    {
+      "source": "0",
+      "target": "23",
+      "weight": 1.0,
+      "id": "22"
+    },
+    {
+      "source": "0",
+      "target": "24",
+      "weight": 1.0,
+      "id": "23"
+    },
+    {
+      "source": "0",
+      "target": "25",
+      "weight": 1.0,
+      "id": "24"
+    },
+    {
+      "source": "0",
+      "target": "26",
+      "weight": 1.0,
+      "id": "25"
+    },
+    {
+      "source": "0",
+      "target": "27",
+      "weight": 1.0,
+      "id": "26"
+    },
+    {
+      "source": "0",
+      "target": "28",
+      "weight": 1.0,
+      "id": "27"
+    },
+    {
+      "source": "0",
+      "target": "29",
+      "weight": 1.0,
+      "id": "28"
+    },
+    {
+      "source": "0",
+      "target": "30",
+      "weight": 1.0,
+      "id": "29"
+    },
+    {
+      "source": "1",
+      "target": "108",
+      "Edge Label": "Majority",
+      "weight": 1.0,
+      "id": "110"
+    },
+    {
+      "source": "1",
+      "target": "275",
+      "weight": 0.25,
+      "id": "303"
+    },
+    {
+      "source": "1",
+      "target": "284",
+      "weight": 1.0,
+      "id": "314"
+    },
+    {
+      "source": "2",
+      "target": "120",
+      "weight": 1.0,
+      "id": "123"
+    },
+    {
+      "source": "3",
+      "target": "124",
+      "weight": 1.0,
+      "id": "129"
+    },
+    {
+      "source": "3",
+      "target": "126",
+      "weight": 1.0,
+      "id": "131"
+    },
+    {
+      "source": "3",
+      "target": "129",
+      "weight": 1.0,
+      "id": "134"
+    },
+    {
+      "source": "3",
+      "target": "296",
+      "Edge Label": "1%",
+      "weight": 0.1,
+      "id": "328"
+    },
+    {
+      "source": "4",
+      "target": "112",
+      "weight": 1.0,
+      "id": "114"
+    },
+    {
+      "source": "5",
+      "target": "92",
+      "weight": 1.0,
+      "id": "92"
+    },
+    {
+      "source": "6",
+      "target": "186",
+      "weight": 1.0,
+      "id": "200"
+    },
+    {
+      "source": "7",
+      "target": "145",
+      "weight": 1.0,
+      "id": "471"
+    },
+    {
+      "source": "7",
+      "target": "190",
+      "weight": 1.0,
+      "id": "293"
+    },
+    {
+      "source": "7",
+      "target": "283",
+      "Edge Label": "1%",
+      "weight": 0.01,
+      "id": "313"
+    },
+    {
+      "source": "8",
+      "target": "172",
+      "weight": 1.0,
+      "id": "186"
+    },
+    {
+      "source": "9",
+      "target": "74",
+      "weight": 1.0,
+      "id": "74"
+    },
+    {
+      "source": "9",
+      "target": "234",
+      "Edge Label": "11%",
+      "weight": 0.11,
+      "id": "320"
+    },
+    {
+      "source": "10",
+      "target": "93",
+      "weight": 0.2,
+      "id": "94"
+    },
+    {
+      "source": "10",
+      "target": "99",
+      "Edge Label": "Majority",
+      "weight": 1.0,
+      "id": "100"
+    },
+    {
+      "source": "10",
+      "target": "102",
+      "weight": 0.1,
+      "id": "103"
+    },
+    {
+      "source": "10",
+      "target": "103",
+      "weight": 0.1,
+      "id": "104"
+    },
+    {
+      "source": "11",
+      "target": "183",
+      "weight": 1.0,
+      "id": "197"
+    },
+    {
+      "source": "12",
+      "target": "158",
+      "weight": 1.0,
+      "id": "169"
+    },
+    {
+      "source": "13",
+      "target": "93",
+      "Edge Label": "Majority",
+      "weight": 0.5,
+      "id": "93"
+    },
+    {
+      "source": "13",
+      "target": "94",
+      "Edge Label": "Majority",
+      "weight": 0.5,
+      "id": "95"
+    },
+    {
+      "source": "13",
+      "target": "95",
+      "weight": 0.2,
+      "id": "96"
+    },
+    {
+      "source": "13",
+      "target": "98",
+      "weight": 0.02,
+      "id": "99"
+    },
+    {
+      "source": "14",
+      "target": "162",
+      "weight": 1.0,
+      "id": "174"
+    },
+    {
+      "source": "14",
+      "target": "287",
+      "Edge Label": "20%",
+      "weight": 0.2,
+      "id": "317"
+    },
+    {
+      "source": "15",
+      "target": "114",
+      "weight": 1.0,
+      "id": "116"
+    },
+    {
+      "source": "16",
+      "target": "169",
+      "weight": 1.0,
+      "id": "182"
+    },
+    {
+      "source": "17",
+      "target": "131",
+      "weight": 1.0,
+      "id": "136"
+    },
+    {
+      "source": "18",
+      "target": "177",
+      "Edge Label": "36%",
+      "weight": 1.0,
+      "id": "191"
+    },
+    {
+      "source": "18",
+      "target": "180",
+      "Edge Label": "18%",
+      "weight": 0.18,
+      "id": "194"
+    },
+    {
+      "source": "19",
+      "target": "38",
+      "Edge Label": "100%",
+      "weight": 1.0,
+      "id": "37"
+    },
+    {
+      "source": "20",
+      "target": "165",
+      "Edge Label": "69%",
+      "weight": 0.7,
+      "id": "178"
+    },
+    {
+      "source": "20",
+      "target": "166",
+      "Edge Label": "27%",
+      "weight": 0.27,
+      "id": "179"
+    },
+    {
+      "source": "21",
+      "target": "167",
+      "weight": 1.0,
+      "id": "180"
+    },
+    {
+      "source": "22",
+      "target": "31",
+      "Edge Label": "66%",
+      "weight": 0.66,
+      "id": "30"
+    },
+    {
+      "source": "22",
+      "target": "32",
+      "Edge Label": "4.5%",
+      "weight": 0.045,
+      "id": "31"
+    },
+    {
+      "source": "22",
+      "target": "138",
+      "Edge Label": "27%",
+      "weight": 0.27,
+      "id": "230"
+    },
+    {
+      "source": "23",
+      "target": "171",
+      "weight": 1.0,
+      "id": "184"
+    },
+    {
+      "source": "24",
+      "target": "160",
+      "Edge Label": "65%",
+      "weight": 0.7,
+      "id": "172"
+    },
+    {
+      "source": "24",
+      "target": "414",
+      "weight": 0.2,
+      "id": "452"
+    },
+    {
+      "source": "24",
+      "target": "416",
+      "weight": 0.2,
+      "id": "453"
+    },
+    {
+      "source": "24",
+      "target": "419",
+      "Edge Label": "5%",
+      "weight": 0.05,
+      "id": "457"
+    },
+    {
+      "source": "25",
+      "target": "140",
+      "Edge Label": "Co-Exec Chairman",
+      "weight": 0.5,
+      "id": "150"
+    },
+    {
+      "source": "25",
+      "target": "142",
+      "Edge Label": "Majority",
+      "weight": 1.0,
+      "id": "151"
+    },
+    {
+      "source": "25",
+      "target": "419",
+      "Edge Label": "13%",
+      "weight": 0.13,
+      "id": "456"
+    },
+    {
+      "source": "26",
+      "target": "89",
+      "weight": 1.0,
+      "id": "89"
+    },
+    {
+      "source": "27",
+      "target": "149",
+      "weight": 1.0,
+      "id": "160"
+    },
+    {
+      "source": "27",
+      "target": "418",
+      "weight": 0.1,
+      "id": "455"
+    },
+    {
+      "source": "27",
+      "target": "419",
+      "weight": 0.1,
+      "id": "464"
+    },
+    {
+      "source": "28",
+      "target": "110",
+      "Edge Label": "Majority",
+      "weight": 1.0,
+      "id": "112"
+    },
+    {
+      "source": "29",
+      "target": "151",
+      "Edge Label": "40%+",
+      "weight": 0.45,
+      "id": "162"
+    },
+    {
+      "source": "29",
+      "target": "153",
+      "Edge Label": "10%",
+      "weight": 0.1,
+      "id": "164"
+    },
+    {
+      "source": "29",
+      "target": "154",
+      "Edge Label": "20%",
+      "weight": 0.2,
+      "id": "165"
+    },
+    {
+      "source": "29",
+      "target": "155",
+      "Edge Label": "9%",
+      "weight": 0.087,
+      "id": "166"
+    },
+    {
+      "source": "29",
+      "target": "157",
+      "Edge Label": "2%",
+      "weight": 0.02,
+      "id": "168"
+    },
+    {
+      "source": "30",
+      "target": "40",
+      "weight": 1.0,
+      "id": "39"
+    },
+    {
+      "source": "32",
+      "target": "36",
+      "weight": 1.0,
+      "id": "35"
+    },
+    {
+      "source": "32",
+      "target": "37",
+      "weight": 1.0,
+      "id": "36"
+    },
+    {
+      "source": "34",
+      "target": "135",
+      "Edge Label": "CEO",
+      "weight": 1.0,
+      "id": "142"
+    },
+    {
+      "source": "34",
+      "target": "138",
+      "weight": 1.0,
+      "id": "228"
+    },
+    {
+      "source": "35",
+      "target": "138",
+      "Edge Label": "CEO",
+      "weight": 1.0,
+      "id": "229"
+    },
+    {
+      "source": "38",
+      "target": "39",
+      "weight": 1.0,
+      "id": "38"
+    },
+    {
+      "source": "39",
+      "target": "40",
+      "weight": 1.0,
+      "id": "40"
+    },
+    {
+      "source": "39",
+      "target": "281",
+      "Edge Label": "CEO",
+      "weight": 1.0,
+      "id": "311"
+    },
+    {
+      "source": "40",
+      "target": "42",
+      "weight": 1.0,
+      "id": "41"
+    },
+    {
+      "source": "40",
+      "target": "278",
+      "weight": 0.25,
+      "id": "306"
+    },
+    {
+      "source": "41",
+      "target": "42",
+      "weight": 1.0,
+      "id": "42"
+    },
+    {
+      "source": "41",
+      "target": "43",
+      "weight": 1.0,
+      "id": "43"
+    },
+    {
+      "source": "41",
+      "target": "44",
+      "weight": 1.0,
+      "id": "44"
+    },
+    {
+      "source": "41",
+      "target": "45",
+      "weight": 1.0,
+      "id": "45"
+    },
+    {
+      "source": "41",
+      "target": "46",
+      "weight": 1.0,
+      "id": "46"
+    },
+    {
+      "source": "41",
+      "target": "47",
+      "weight": 1.0,
+      "id": "47"
+    },
+    {
+      "source": "41",
+      "target": "48",
+      "weight": 1.0,
+      "id": "48"
+    },
+    {
+      "source": "41",
+      "target": "49",
+      "weight": 1.0,
+      "id": "49"
+    },
+    {
+      "source": "41",
+      "target": "50",
+      "weight": 1.0,
+      "id": "50"
+    },
+    {
+      "source": "41",
+      "target": "51",
+      "weight": 1.0,
+      "id": "51"
+    },
+    {
+      "source": "41",
+      "target": "52",
+      "weight": 1.0,
+      "id": "52"
+    },
+    {
+      "source": "41",
+      "target": "53",
+      "weight": 1.0,
+      "id": "53"
+    },
+    {
+      "source": "41",
+      "target": "54",
+      "weight": 1.0,
+      "id": "54"
+    },
+    {
+      "source": "41",
+      "target": "55",
+      "weight": 1.0,
+      "id": "55"
+    },
+    {
+      "source": "41",
+      "target": "56",
+      "weight": 1.0,
+      "id": "56"
+    },
+    {
+      "source": "41",
+      "target": "57",
+      "weight": 1.0,
+      "id": "57"
+    },
+    {
+      "source": "41",
+      "target": "58",
+      "weight": 1.0,
+      "id": "58"
+    },
+    {
+      "source": "41",
+      "target": "59",
+      "weight": 1.0,
+      "id": "59"
+    },
+    {
+      "source": "41",
+      "target": "60",
+      "weight": 1.0,
+      "id": "60"
+    },
+    {
+      "source": "41",
+      "target": "61",
+      "weight": 1.0,
+      "id": "61"
+    },
+    {
+      "source": "41",
+      "target": "62",
+      "weight": 1.0,
+      "id": "62"
+    },
+    {
+      "source": "41",
+      "target": "63",
+      "weight": 1.0,
+      "id": "63"
+    },
+    {
+      "source": "41",
+      "target": "64",
+      "weight": 1.0,
+      "id": "64"
+    },
+    {
+      "source": "41",
+      "target": "65",
+      "weight": 1.0,
+      "id": "65"
+    },
+    {
+      "source": "41",
+      "target": "66",
+      "weight": 1.0,
+      "id": "66"
+    },
+    {
+      "source": "41",
+      "target": "67",
+      "weight": 1.0,
+      "id": "67"
+    },
+    {
+      "source": "41",
+      "target": "68",
+      "weight": 1.0,
+      "id": "68"
+    },
+    {
+      "source": "41",
+      "target": "69",
+      "weight": 1.0,
+      "id": "69"
+    },
+    {
+      "source": "41",
+      "target": "70",
+      "weight": 1.0,
+      "id": "70"
+    },
+    {
+      "source": "41",
+      "target": "71",
+      "weight": 1.0,
+      "id": "71"
+    },
+    {
+      "source": "41",
+      "target": "72",
+      "weight": 1.0,
+      "id": "72"
+    },
+    {
+      "source": "41",
+      "target": "73",
+      "weight": 1.0,
+      "id": "73"
+    },
+    {
+      "source": "43",
+      "target": "265",
+      "weight": 1.0,
+      "id": "287"
+    },
+    {
+      "source": "44",
+      "target": "260",
+      "weight": 1.0,
+      "id": "282"
+    },
+    {
+      "source": "45",
+      "target": "232",
+      "weight": 1.0,
+      "id": "251"
+    },
+    {
+      "source": "46",
+      "target": "238",
+      "weight": 1.0,
+      "id": "257"
+    },
+    {
+      "source": "47",
+      "target": "215",
+      "weight": 1.0,
+      "id": "235"
+    },
+    {
+      "source": "48",
+      "target": "124",
+      "weight": 1.0,
+      "id": "128"
+    },
+    {
+      "source": "49",
+      "target": "217",
+      "weight": 1.0,
+      "id": "236"
+    },
+    {
+      "source": "50",
+      "target": "241",
+      "weight": 1.0,
+      "id": "260"
+    },
+    {
+      "source": "51",
+      "target": "242",
+      "weight": 1.0,
+      "id": "261"
+    },
+    {
+      "source": "52",
+      "target": "236",
+      "weight": 1.0,
+      "id": "255"
+    },
+    {
+      "source": "53",
+      "target": "245",
+      "weight": 1.0,
+      "id": "264"
+    },
+    {
+      "source": "54",
+      "target": "240",
+      "weight": 1.0,
+      "id": "259"
+    },
+    {
+      "source": "55",
+      "target": "234",
+      "weight": 1.0,
+      "id": "253"
+    },
+    {
+      "source": "56",
+      "target": "255",
+      "weight": 1.0,
+      "id": "276"
+    },
+    {
+      "source": "57",
+      "target": "227",
+      "weight": 1.0,
+      "id": "247"
+    },
+    {
+      "source": "58",
+      "target": "256",
+      "weight": 1.0,
+      "id": "277"
+    },
+    {
+      "source": "59",
+      "target": "229",
+      "weight": 1.0,
+      "id": "248"
+    },
+    {
+      "source": "60",
+      "target": "267",
+      "weight": 1.0,
+      "id": "289"
+    },
+    {
+      "source": "61",
+      "target": "218",
+      "Edge Label": "50%",
+      "weight": 0.5,
+      "id": "237"
+    },
+    {
+      "source": "61",
+      "target": "219",
+      "Edge Label": "50%",
+      "weight": 0.5,
+      "id": "238"
+    },
+    {
+      "source": "62",
+      "target": "137",
+      "Edge Label": "4%",
+      "weight": 0.04,
+      "id": "154"
+    },
+    {
+      "source": "62",
+      "target": "145",
+      "weight": 1.1,
+      "id": "155"
+    },
+    {
+      "source": "62",
+      "target": "146",
+      "weight": 0.2,
+      "id": "157"
+    },
+    {
+      "source": "62",
+      "target": "148",
+      "weight": 0.2,
+      "id": "159"
+    },
+    {
+      "source": "63",
+      "target": "174",
+      "weight": 1.0,
+      "id": "188"
+    },
+    {
+      "source": "64",
+      "target": "244",
+      "weight": 1.0,
+      "id": "263"
+    },
+    {
+      "source": "65",
+      "target": "257",
+      "weight": 1.0,
+      "id": "278"
+    },
+    {
+      "source": "66",
+      "target": "230",
+      "weight": 1.0,
+      "id": "249"
+    },
+    {
+      "source": "67",
+      "target": "246",
+      "weight": 1.0,
+      "id": "266"
+    },
+    {
+      "source": "68",
+      "target": "171",
+      "weight": 1.0,
+      "id": "185"
+    },
+    {
+      "source": "69",
+      "target": "262",
+      "weight": 1.0,
+      "id": "283"
+    },
+    {
+      "source": "70",
+      "target": "249",
+      "weight": 1.0,
+      "id": "272"
+    },
+    {
+      "source": "71",
+      "target": "252",
+      "weight": 1.0,
+      "id": "273"
+    },
+    {
+      "source": "72",
+      "target": "131",
+      "weight": 1.0,
+      "id": "139"
+    },
+    {
+      "source": "73",
+      "target": "231",
+      "weight": 1.0,
+      "id": "250"
+    },
+    {
+      "source": "74",
+      "target": "75",
+      "weight": 1.0,
+      "id": "76"
+    },
+    {
+      "source": "76",
+      "target": "75",
+      "weight": 1.0,
+      "id": "75"
+    },
+    {
+      "source": "76",
+      "target": "77",
+      "weight": 1.0,
+      "id": "77"
+    },
+    {
+      "source": "76",
+      "target": "86",
+      "weight": 1.0,
+      "id": "86"
+    },
+    {
+      "source": "76",
+      "target": "105",
+      "weight": 1.0,
+      "id": "107"
+    },
+    {
+      "source": "76",
+      "target": "116",
+      "weight": 1.0,
+      "id": "119"
+    },
+    {
+      "source": "76",
+      "target": "136",
+      "weight": 1.0,
+      "id": "144"
+    },
+    {
+      "source": "76",
+      "target": "271",
+      "weight": 1.0,
+      "id": "297"
+    },
+    {
+      "source": "76",
+      "target": "337",
+      "weight": 1.0,
+      "id": "372"
+    },
+    {
+      "source": "76",
+      "target": "341",
+      "weight": 1.0,
+      "id": "376"
+    },
+    {
+      "source": "76",
+      "target": "347",
+      "weight": 1.0,
+      "id": "383"
+    },
+    {
+      "source": "76",
+      "target": "349",
+      "weight": 1.0,
+      "id": "385"
+    },
+    {
+      "source": "76",
+      "target": "350",
+      "weight": 1.0,
+      "id": "386"
+    },
+    {
+      "source": "76",
+      "target": "351",
+      "weight": 1.0,
+      "id": "387"
+    },
+    {
+      "source": "76",
+      "target": "352",
+      "weight": 1.0,
+      "id": "388"
+    },
+    {
+      "source": "76",
+      "target": "353",
+      "weight": 1.0,
+      "id": "389"
+    },
+    {
+      "source": "76",
+      "target": "354",
+      "weight": 1.0,
+      "id": "390"
+    },
+    {
+      "source": "76",
+      "target": "355",
+      "weight": 1.0,
+      "id": "391"
+    },
+    {
+      "source": "76",
+      "target": "356",
+      "weight": 1.0,
+      "id": "392"
+    },
+    {
+      "source": "76",
+      "target": "357",
+      "weight": 1.0,
+      "id": "393"
+    },
+    {
+      "source": "76",
+      "target": "358",
+      "weight": 1.0,
+      "id": "394"
+    },
+    {
+      "source": "76",
+      "target": "359",
+      "weight": 1.0,
+      "id": "395"
+    },
+    {
+      "source": "76",
+      "target": "360",
+      "weight": 1.0,
+      "id": "396"
+    },
+    {
+      "source": "76",
+      "target": "361",
+      "weight": 1.0,
+      "id": "397"
+    },
+    {
+      "source": "76",
+      "target": "362",
+      "weight": 1.0,
+      "id": "398"
+    },
+    {
+      "source": "76",
+      "target": "363",
+      "weight": 1.0,
+      "id": "399"
+    },
+    {
+      "source": "76",
+      "target": "364",
+      "weight": 1.0,
+      "id": "400"
+    },
+    {
+      "source": "76",
+      "target": "365",
+      "weight": 1.0,
+      "id": "401"
+    },
+    {
+      "source": "76",
+      "target": "366",
+      "weight": 1.0,
+      "id": "402"
+    },
+    {
+      "source": "76",
+      "target": "367",
+      "weight": 1.0,
+      "id": "403"
+    },
+    {
+      "source": "76",
+      "target": "368",
+      "weight": 1.0,
+      "id": "404"
+    },
+    {
+      "source": "77",
+      "target": "78",
+      "weight": 1.0,
+      "id": "78"
+    },
+    {
+      "source": "77",
+      "target": "419",
+      "weight": 0.02,
+      "id": "458"
+    },
+    {
+      "source": "78",
+      "target": "80",
+      "weight": 1.0,
+      "id": "79"
+    },
+    {
+      "source": "78",
+      "target": "81",
+      "Edge Label": "11%",
+      "weight": 0.11,
+      "id": "81"
+    },
+    {
+      "source": "78",
+      "target": "82",
+      "Edge Label": "2%",
+      "weight": 0.02,
+      "id": "82"
+    },
+    {
+      "source": "78",
+      "target": "83",
+      "Edge Label": "Founder",
+      "weight": 1.0,
+      "id": "83"
+    },
+    {
+      "source": "78",
+      "target": "85",
+      "weight": 1.0,
+      "id": "85"
+    },
+    {
+      "source": "79",
+      "target": "80",
+      "weight": 1.0,
+      "id": "80"
+    },
+    {
+      "source": "79",
+      "target": "117",
+      "weight": 1.0,
+      "id": "118"
+    },
+    {
+      "source": "79",
+      "target": "123",
+      "weight": 1.0,
+      "id": "127"
+    },
+    {
+      "source": "79",
+      "target": "132",
+      "weight": 1.0,
+      "id": "138"
+    },
+    {
+      "source": "79",
+      "target": "159",
+      "weight": 1.0,
+      "id": "171"
+    },
+    {
+      "source": "79",
+      "target": "163",
+      "weight": 1.0,
+      "id": "176"
+    },
+    {
+      "source": "79",
+      "target": "192",
+      "weight": 1.0,
+      "id": "208"
+    },
+    {
+      "source": "79",
+      "target": "194",
+      "weight": 1.0,
+      "id": "210"
+    },
+    {
+      "source": "79",
+      "target": "195",
+      "weight": 1.0,
+      "id": "211"
+    },
+    {
+      "source": "79",
+      "target": "196",
+      "weight": 1.0,
+      "id": "212"
+    },
+    {
+      "source": "79",
+      "target": "197",
+      "weight": 1.0,
+      "id": "213"
+    },
+    {
+      "source": "79",
+      "target": "198",
+      "weight": 1.0,
+      "id": "214"
+    },
+    {
+      "source": "79",
+      "target": "199",
+      "weight": 1.0,
+      "id": "215"
+    },
+    {
+      "source": "79",
+      "target": "201",
+      "weight": 1.0,
+      "id": "217"
+    },
+    {
+      "source": "79",
+      "target": "202",
+      "weight": 1.0,
+      "id": "218"
+    },
+    {
+      "source": "79",
+      "target": "203",
+      "weight": 1.0,
+      "id": "219"
+    },
+    {
+      "source": "79",
+      "target": "204",
+      "weight": 1.0,
+      "id": "220"
+    },
+    {
+      "source": "79",
+      "target": "205",
+      "weight": 1.0,
+      "id": "221"
+    },
+    {
+      "source": "79",
+      "target": "206",
+      "weight": 1.0,
+      "id": "222"
+    },
+    {
+      "source": "79",
+      "target": "207",
+      "weight": 1.0,
+      "id": "223"
+    },
+    {
+      "source": "79",
+      "target": "208",
+      "weight": 1.0,
+      "id": "224"
+    },
+    {
+      "source": "79",
+      "target": "209",
+      "weight": 1.0,
+      "id": "225"
+    },
+    {
+      "source": "79",
+      "target": "210",
+      "weight": 1.0,
+      "id": "226"
+    },
+    {
+      "source": "79",
+      "target": "211",
+      "weight": 1.0,
+      "id": "227"
+    },
+    {
+      "source": "79",
+      "target": "213",
+      "weight": 1.0,
+      "id": "232"
+    },
+    {
+      "source": "79",
+      "target": "220",
+      "weight": 1.0,
+      "id": "239"
+    },
+    {
+      "source": "79",
+      "target": "221",
+      "weight": 1.0,
+      "id": "240"
+    },
+    {
+      "source": "79",
+      "target": "222",
+      "weight": 1.0,
+      "id": "241"
+    },
+    {
+      "source": "79",
+      "target": "223",
+      "weight": 1.0,
+      "id": "242"
+    },
+    {
+      "source": "79",
+      "target": "224",
+      "weight": 1.0,
+      "id": "243"
+    },
+    {
+      "source": "79",
+      "target": "225",
+      "weight": 1.0,
+      "id": "244"
+    },
+    {
+      "source": "79",
+      "target": "226",
+      "weight": 1.0,
+      "id": "245"
+    },
+    {
+      "source": "80",
+      "target": "419",
+      "weight": 0.02,
+      "id": "467"
+    },
+    {
+      "source": "83",
+      "target": "84",
+      "weight": 1.0,
+      "id": "84"
+    },
+    {
+      "source": "85",
+      "target": "419",
+      "weight": 0.02,
+      "id": "468"
+    },
+    {
+      "source": "86",
+      "target": "87",
+      "Edge Label": "Majority",
+      "weight": 1.0,
+      "id": "87"
+    },
+    {
+      "source": "86",
+      "target": "88",
+      "Edge Label": "4%",
+      "weight": 0.04,
+      "id": "88"
+    },
+    {
+      "source": "87",
+      "target": "90",
+      "weight": 1.0,
+      "id": "90"
+    },
+    {
+      "source": "89",
+      "target": "91",
+      "weight": 1.0,
+      "id": "91"
+    },
+    {
+      "source": "92",
+      "target": "185",
+      "weight": 1.0,
+      "id": "199"
+    },
+    {
+      "source": "93",
+      "target": "97",
+      "weight": 1.0,
+      "id": "98"
+    },
+    {
+      "source": "94",
+      "target": "96",
+      "weight": 1.0,
+      "id": "97"
+    },
+    {
+      "source": "95",
+      "target": "200",
+      "weight": 1.0,
+      "id": "216"
+    },
+    {
+      "source": "99",
+      "target": "100",
+      "weight": 1.0,
+      "id": "101"
+    },
+    {
+      "source": "99",
+      "target": "101",
+      "weight": 1.0,
+      "id": "102"
+    },
+    {
+      "source": "99",
+      "target": "105",
+      "weight": 0.3,
+      "id": "106"
+    },
+    {
+      "source": "101",
+      "target": "145",
+      "weight": 1.0,
+      "id": "156"
+    },
+    {
+      "source": "102",
+      "target": "341",
+      "weight": 0.2,
+      "id": "381"
+    },
+    {
+      "source": "103",
+      "target": "104",
+      "weight": 1.0,
+      "id": "105"
+    },
+    {
+      "source": "105",
+      "target": "106",
+      "Edge Label": "Majority",
+      "weight": 1.0,
+      "id": "108"
+    },
+    {
+      "source": "106",
+      "target": "107",
+      "weight": 1.0,
+      "id": "109"
+    },
+    {
+      "source": "108",
+      "target": "109",
+      "weight": 1.0,
+      "id": "111"
+    },
+    {
+      "source": "110",
+      "target": "111",
+      "weight": 1.0,
+      "id": "113"
+    },
+    {
+      "source": "112",
+      "target": "113",
+      "weight": 1.0,
+      "id": "115"
+    },
+    {
+      "source": "114",
+      "target": "115",
+      "weight": 1.0,
+      "id": "117"
+    },
+    {
+      "source": "116",
+      "target": "118",
+      "weight": 1.0,
+      "id": "120"
+    },
+    {
+      "source": "117",
+      "target": "118",
+      "weight": 1.0,
+      "id": "121"
+    },
+    {
+      "source": "118",
+      "target": "119",
+      "weight": 1.0,
+      "id": "122"
+    },
+    {
+      "source": "120",
+      "target": "121",
+      "weight": 1.0,
+      "id": "124"
+    },
+    {
+      "source": "120",
+      "target": "122",
+      "weight": 1.0,
+      "id": "125"
+    },
+    {
+      "source": "120",
+      "target": "123",
+      "weight": 1.0,
+      "id": "126"
+    },
+    {
+      "source": "124",
+      "target": "125",
+      "weight": 1.0,
+      "id": "130"
+    },
+    {
+      "source": "124",
+      "target": "214",
+      "weight": 1.0,
+      "id": "233"
+    },
+    {
+      "source": "125",
+      "target": "301",
+      "weight": 1.0,
+      "id": "334"
+    },
+    {
+      "source": "126",
+      "target": "127",
+      "weight": 1.0,
+      "id": "132"
+    },
+    {
+      "source": "126",
+      "target": "128",
+      "weight": 1.0,
+      "id": "133"
+    },
+    {
+      "source": "129",
+      "target": "130",
+      "weight": 1.0,
+      "id": "135"
+    },
+    {
+      "source": "131",
+      "target": "132",
+      "weight": 1.0,
+      "id": "137"
+    },
+    {
+      "source": "131",
+      "target": "133",
+      "Edge Label": "90%",
+      "weight": 0.92,
+      "id": "140"
+    },
+    {
+      "source": "131",
+      "target": "134",
+      "weight": 1.0,
+      "id": "141"
+    },
+    {
+      "source": "131",
+      "target": "321",
+      "weight": 1.0,
+      "id": "355"
+    },
+    {
+      "source": "131",
+      "target": "228",
+      "Edge Label": "wife is a Walton",
+      "weight": 1.0,
+      "id": "356"
+    },
+    {
+      "source": "135",
+      "target": "136",
+      "Edge Label": "Majority",
+      "weight": 1.0,
+      "id": "143"
+    },
+    {
+      "source": "136",
+      "target": "137",
+      "Edge Label": "2.3%",
+      "weight": 0.023,
+      "id": "145"
+    },
+    {
+      "source": "136",
+      "target": "138",
+      "Edge Label": "20%",
+      "weight": 0.2,
+      "id": "146"
+    },
+    {
+      "source": "136",
+      "target": "140",
+      "Edge Label": "50%",
+      "weight": 0.5,
+      "id": "148"
+    },
+    {
+      "source": "136",
+      "target": "419",
+      "weight": 0.02,
+      "id": "460"
+    },
+    {
+      "source": "138",
+      "target": "139",
+      "weight": 1.0,
+      "id": "147"
+    },
+    {
+      "source": "138",
+      "target": "212",
+      "weight": 1.0,
+      "id": "231"
+    },
+    {
+      "source": "140",
+      "target": "141",
+      "weight": 1.0,
+      "id": "149"
+    },
+    {
+      "source": "140",
+      "target": "143",
+      "weight": 1.0,
+      "id": "152"
+    },
+    {
+      "source": "142",
+      "target": "144",
+      "weight": 1.0,
+      "id": "153"
+    },
+    {
+      "source": "145",
+      "target": "192",
+      "weight": 1.0,
+      "id": "472"
+    },
+    {
+      "source": "146",
+      "target": "147",
+      "weight": 1.0,
+      "id": "158"
+    },
+    {
+      "source": "148",
+      "target": "298",
+      "weight": 1.0,
+      "id": "330"
+    },
+    {
+      "source": "149",
+      "target": "150",
+      "weight": 1.0,
+      "id": "161"
+    },
+    {
+      "source": "151",
+      "target": "152",
+      "weight": 1.0,
+      "id": "163"
+    },
+    {
+      "source": "154",
+      "target": "286",
+      "weight": 1.0,
+      "id": "316"
+    },
+    {
+      "source": "155",
+      "target": "156",
+      "weight": 1.0,
+      "id": "167"
+    },
+    {
+      "source": "158",
+      "target": "159",
+      "weight": 1.0,
+      "id": "170"
+    },
+    {
+      "source": "160",
+      "target": "161",
+      "weight": 1.0,
+      "id": "173"
+    },
+    {
+      "source": "162",
+      "target": "163",
+      "weight": 1.0,
+      "id": "175"
+    },
+    {
+      "source": "162",
+      "target": "164",
+      "weight": 1.0,
+      "id": "177"
+    },
+    {
+      "source": "163",
+      "target": "287",
+      "Edge Label": "20%",
+      "weight": 0.2,
+      "id": "318"
+    },
+    {
+      "source": "165",
+      "target": "193",
+      "weight": 1.0,
+      "id": "209"
+    },
+    {
+      "source": "166",
+      "target": "413",
+      "weight": 1.0,
+      "id": "449"
+    },
+    {
+      "source": "167",
+      "target": "168",
+      "weight": 1.0,
+      "id": "181"
+    },
+    {
+      "source": "169",
+      "target": "170",
+      "weight": 1.0,
+      "id": "183"
+    },
+    {
+      "source": "172",
+      "target": "173",
+      "weight": 1.0,
+      "id": "187"
+    },
+    {
+      "source": "174",
+      "target": "175",
+      "weight": 1.0,
+      "id": "189"
+    },
+    {
+      "source": "174",
+      "target": "176",
+      "weight": 1.0,
+      "id": "190"
+    },
+    {
+      "source": "177",
+      "target": "178",
+      "weight": 1.0,
+      "id": "192"
+    },
+    {
+      "source": "177",
+      "target": "179",
+      "weight": 1.0,
+      "id": "193"
+    },
+    {
+      "source": "183",
+      "target": "184",
+      "weight": 1.0,
+      "id": "198"
+    },
+    {
+      "source": "186",
+      "target": "187",
+      "weight": 1.0,
+      "id": "201"
+    },
+    {
+      "source": "269",
+      "target": "208",
+      "weight": 1.0,
+      "id": "295"
+    },
+    {
+      "source": "269",
+      "target": "270",
+      "weight": 1.0,
+      "id": "296"
+    },
+    {
+      "source": "190",
+      "target": "191",
+      "weight": 1.0,
+      "id": "206"
+    },
+    {
+      "source": "190",
+      "target": "192",
+      "weight": 1.0,
+      "id": "292"
+    },
+    {
+      "source": "192",
+      "target": "419",
+      "weight": 0.02,
+      "id": "465"
+    },
+    {
+      "source": "194",
+      "target": "291",
+      "weight": 1.0,
+      "id": "323"
+    },
+    {
+      "source": "195",
+      "target": "294",
+      "weight": 1.0,
+      "id": "326"
+    },
+    {
+      "source": "196",
+      "target": "314",
+      "weight": 1.0,
+      "id": "348"
+    },
+    {
+      "source": "196",
+      "target": "419",
+      "weight": 0.02,
+      "id": "466"
+    },
+    {
+      "source": "197",
+      "target": "265",
+      "weight": 1.0,
+      "id": "288"
+    },
+    {
+      "source": "198",
+      "target": "309",
+      "weight": 1.0,
+      "id": "343"
+    },
+    {
+      "source": "199",
+      "target": "316",
+      "weight": 1.0,
+      "id": "350"
+    },
+    {
+      "source": "201",
+      "target": "299",
+      "weight": 1.0,
+      "id": "332"
+    },
+    {
+      "source": "202",
+      "target": "317",
+      "weight": 0.5,
+      "id": "351"
+    },
+    {
+      "source": "202",
+      "target": "318",
+      "weight": 0.5,
+      "id": "352"
+    },
+    {
+      "source": "203",
+      "target": "331",
+      "weight": 1.0,
+      "id": "366"
+    },
+    {
+      "source": "204",
+      "target": "289",
+      "weight": 1.0,
+      "id": "321"
+    },
+    {
+      "source": "205",
+      "target": "312",
+      "weight": 1.0,
+      "id": "347"
+    },
+    {
+      "source": "206",
+      "target": "297",
+      "weight": 1.0,
+      "id": "329"
+    },
+    {
+      "source": "207",
+      "target": "301",
+      "weight": 1.0,
+      "id": "333"
+    },
+    {
+      "source": "209",
+      "target": "292",
+      "weight": 1.0,
+      "id": "324"
+    },
+    {
+      "source": "209",
+      "target": "419",
+      "weight": 0.02,
+      "id": "470"
+    },
+    {
+      "source": "210",
+      "target": "310",
+      "weight": 1.0,
+      "id": "344"
+    },
+    {
+      "source": "211",
+      "target": "336",
+      "weight": 1.0,
+      "id": "371"
+    },
+    {
+      "source": "213",
+      "target": "308",
+      "weight": 1.0,
+      "id": "341"
+    },
+    {
+      "source": "215",
+      "target": "216",
+      "weight": 1.0,
+      "id": "234"
+    },
+    {
+      "source": "220",
+      "target": "329",
+      "weight": 1.0,
+      "id": "364"
+    },
+    {
+      "source": "221",
+      "target": "322",
+      "weight": 1.0,
+      "id": "357"
+    },
+    {
+      "source": "222",
+      "target": "302",
+      "weight": 1.0,
+      "id": "335"
+    },
+    {
+      "source": "223",
+      "target": "332",
+      "weight": 1.0,
+      "id": "367"
+    },
+    {
+      "source": "224",
+      "target": "274",
+      "weight": 1.0,
+      "id": "300"
+    },
+    {
+      "source": "224",
+      "target": "275",
+      "weight": 1.0,
+      "id": "301"
+    },
+    {
+      "source": "224",
+      "target": "277",
+      "Edge Label": "CEO",
+      "weight": 0.25,
+      "id": "304"
+    },
+    {
+      "source": "224",
+      "target": "279",
+      "weight": 0.25,
+      "id": "308"
+    },
+    {
+      "source": "224",
+      "target": "282",
+      "weight": 0.01,
+      "id": "312"
+    },
+    {
+      "source": "225",
+      "target": "334",
+      "weight": 1.0,
+      "id": "369"
+    },
+    {
+      "source": "226",
+      "target": "306",
+      "weight": 1.0,
+      "id": "339"
+    },
+    {
+      "source": "227",
+      "target": "228",
+      "weight": 1.0,
+      "id": "246"
+    },
+    {
+      "source": "232",
+      "target": "233",
+      "weight": 1.0,
+      "id": "252"
+    },
+    {
+      "source": "234",
+      "target": "235",
+      "weight": 1.0,
+      "id": "254"
+    },
+    {
+      "source": "236",
+      "target": "237",
+      "weight": 1.0,
+      "id": "256"
+    },
+    {
+      "source": "238",
+      "target": "239",
+      "weight": 1.0,
+      "id": "258"
+    },
+    {
+      "source": "242",
+      "target": "243",
+      "weight": 1.0,
+      "id": "262"
+    },
+    {
+      "source": "246",
+      "target": "247",
+      "weight": 1.0,
+      "id": "267"
+    },
+    {
+      "source": "246",
+      "target": "248",
+      "weight": 1.0,
+      "id": "268"
+    },
+    {
+      "source": "249",
+      "target": "250",
+      "weight": 1.0,
+      "id": "270"
+    },
+    {
+      "source": "249",
+      "target": "251",
+      "weight": 1.0,
+      "id": "271"
+    },
+    {
+      "source": "252",
+      "target": "253",
+      "weight": 1.0,
+      "id": "274"
+    },
+    {
+      "source": "252",
+      "target": "254",
+      "weight": 1.0,
+      "id": "275"
+    },
+    {
+      "source": "257",
+      "target": "258",
+      "weight": 1.0,
+      "id": "279"
+    },
+    {
+      "source": "257",
+      "target": "259",
+      "weight": 1.0,
+      "id": "280"
+    },
+    {
+      "source": "260",
+      "target": "261",
+      "weight": 1.0,
+      "id": "281"
+    },
+    {
+      "source": "262",
+      "target": "264",
+      "weight": 1.0,
+      "id": "284"
+    },
+    {
+      "source": "262",
+      "target": "263",
+      "weight": 1.0,
+      "id": "285"
+    },
+    {
+      "source": "265",
+      "target": "266",
+      "weight": 1.0,
+      "id": "286"
+    },
+    {
+      "source": "267",
+      "target": "268",
+      "weight": 1.0,
+      "id": "290"
+    },
+    {
+      "source": "271",
+      "target": "272",
+      "weight": 1.0,
+      "id": "298"
+    },
+    {
+      "source": "271",
+      "target": "419",
+      "weight": 0.02,
+      "id": "459"
+    },
+    {
+      "source": "272",
+      "target": "273",
+      "weight": 1.0,
+      "id": "299"
+    },
+    {
+      "source": "275",
+      "target": "276",
+      "weight": 1.0,
+      "id": "302"
+    },
+    {
+      "source": "277",
+      "target": "278",
+      "weight": 0.25,
+      "id": "305"
+    },
+    {
+      "source": "278",
+      "target": "279",
+      "weight": 1.0,
+      "id": "307"
+    },
+    {
+      "source": "278",
+      "target": "280",
+      "Edge Label": "10%",
+      "weight": 0.1,
+      "id": "309"
+    },
+    {
+      "source": "278",
+      "target": "281",
+      "weight": 0.1,
+      "id": "310"
+    },
+    {
+      "source": "284",
+      "target": "285",
+      "weight": 1.0,
+      "id": "315"
+    },
+    {
+      "source": "287",
+      "target": "288",
+      "weight": 1.0,
+      "id": "319"
+    },
+    {
+      "source": "289",
+      "target": "290",
+      "weight": 1.0,
+      "id": "322"
+    },
+    {
+      "source": "292",
+      "target": "293",
+      "weight": 1.0,
+      "id": "325"
+    },
+    {
+      "source": "294",
+      "target": "295",
+      "weight": 1.0,
+      "id": "327"
+    },
+    {
+      "source": "299",
+      "target": "300",
+      "weight": 1.0,
+      "id": "331"
+    },
+    {
+      "source": "302",
+      "target": "303",
+      "weight": 1.0,
+      "id": "336"
+    },
+    {
+      "source": "302",
+      "target": "304",
+      "weight": 1.0,
+      "id": "337"
+    },
+    {
+      "source": "304",
+      "target": "305",
+      "weight": 0.1,
+      "id": "338"
+    },
+    {
+      "source": "306",
+      "target": "307",
+      "weight": 1.0,
+      "id": "340"
+    },
+    {
+      "source": "310",
+      "target": "311",
+      "weight": 1.0,
+      "id": "345"
+    },
+    {
+      "source": "312",
+      "target": "313",
+      "weight": 1.0,
+      "id": "346"
+    },
+    {
+      "source": "314",
+      "target": "315",
+      "weight": 1.0,
+      "id": "349"
+    },
+    {
+      "source": "317",
+      "target": "320",
+      "weight": 1.0,
+      "id": "354"
+    },
+    {
+      "source": "318",
+      "target": "319",
+      "weight": 1.0,
+      "id": "353"
+    },
+    {
+      "source": "322",
+      "target": "323",
+      "weight": 1.0,
+      "id": "358"
+    },
+    {
+      "source": "322",
+      "target": "324",
+      "weight": 1.0,
+      "id": "359"
+    },
+    {
+      "source": "322",
+      "target": "325",
+      "weight": 1.0,
+      "id": "360"
+    },
+    {
+      "source": "322",
+      "target": "326",
+      "weight": 1.0,
+      "id": "361"
+    },
+    {
+      "source": "326",
+      "target": "327",
+      "weight": 1.0,
+      "id": "362"
+    },
+    {
+      "source": "329",
+      "target": "330",
+      "weight": 1.0,
+      "id": "365"
+    },
+    {
+      "source": "332",
+      "target": "333",
+      "weight": 1.0,
+      "id": "368"
+    },
+    {
+      "source": "334",
+      "target": "335",
+      "weight": 1.0,
+      "id": "370"
+    },
+    {
+      "source": "337",
+      "target": "338",
+      "weight": 1.0,
+      "id": "373"
+    },
+    {
+      "source": "337",
+      "target": "342",
+      "Edge Label": "13%",
+      "weight": 0.13,
+      "id": "377"
+    },
+    {
+      "source": "338",
+      "target": "339",
+      "weight": 0.2,
+      "id": "374"
+    },
+    {
+      "source": "338",
+      "target": "340",
+      "weight": 0.1,
+      "id": "375"
+    },
+    {
+      "source": "341",
+      "target": "344",
+      "Edge Label": "97%",
+      "weight": 1.0,
+      "id": "379"
+    },
+    {
+      "source": "341",
+      "target": "346",
+      "weight": 0.1,
+      "id": "382"
+    },
+    {
+      "source": "341",
+      "target": "369",
+      "weight": 0.2,
+      "id": "405"
+    },
+    {
+      "source": "342",
+      "target": "343",
+      "weight": 1.0,
+      "id": "378"
+    },
+    {
+      "source": "344",
+      "target": "345",
+      "Edge Label": "co-founder",
+      "weight": 1.0,
+      "id": "380"
+    },
+    {
+      "source": "347",
+      "target": "348",
+      "weight": 1.0,
+      "id": "384"
+    },
+    {
+      "source": "347",
+      "target": "412",
+      "Edge Label": "15%",
+      "weight": 0.15,
+      "id": "448"
+    },
+    {
+      "source": "349",
+      "target": "378",
+      "weight": 1.0,
+      "id": "414"
+    },
+    {
+      "source": "350",
+      "target": "377",
+      "weight": 1.0,
+      "id": "413"
+    },
+    {
+      "source": "351",
+      "target": "379",
+      "weight": 1.0,
+      "id": "415"
+    },
+    {
+      "source": "352",
+      "target": "394",
+      "weight": 1.0,
+      "id": "430"
+    },
+    {
+      "source": "353",
+      "target": "381",
+      "weight": 1.0,
+      "id": "417"
+    },
+    {
+      "source": "354",
+      "target": "406",
+      "weight": 1.0,
+      "id": "442"
+    },
+    {
+      "source": "354",
+      "target": "408",
+      "weight": 1.0,
+      "id": "444"
+    },
+    {
+      "source": "355",
+      "target": "387",
+      "weight": 1.0,
+      "id": "423"
+    },
+    {
+      "source": "356",
+      "target": "383",
+      "weight": 1.0,
+      "id": "419"
+    },
+    {
+      "source": "357",
+      "target": "390",
+      "weight": 1.0,
+      "id": "426"
+    },
+    {
+      "source": "358",
+      "target": "392",
+      "weight": 1.0,
+      "id": "428"
+    },
+    {
+      "source": "359",
+      "target": "403",
+      "weight": 1.0,
+      "id": "439"
+    },
+    {
+      "source": "360",
+      "target": "404",
+      "weight": 1.0,
+      "id": "440"
+    },
+    {
+      "source": "361",
+      "target": "400",
+      "weight": 1.0,
+      "id": "436"
+    },
+    {
+      "source": "361",
+      "target": "419",
+      "weight": 0.02,
+      "id": "462"
+    },
+    {
+      "source": "362",
+      "target": "370",
+      "weight": 1.0,
+      "id": "406"
+    },
+    {
+      "source": "363",
+      "target": "395",
+      "weight": 1.0,
+      "id": "431"
+    },
+    {
+      "source": "364",
+      "target": "373",
+      "weight": 1.0,
+      "id": "409"
+    },
+    {
+      "source": "365",
+      "target": "385",
+      "weight": 1.0,
+      "id": "421"
+    },
+    {
+      "source": "365",
+      "target": "419",
+      "weight": 0.02,
+      "id": "461"
+    },
+    {
+      "source": "366",
+      "target": "398",
+      "weight": 1.0,
+      "id": "434"
+    },
+    {
+      "source": "367",
+      "target": "375",
+      "weight": 1.0,
+      "id": "411"
+    },
+    {
+      "source": "367",
+      "target": "419",
+      "weight": 0.02,
+      "id": "463"
+    },
+    {
+      "source": "368",
+      "target": "410",
+      "weight": 1.0,
+      "id": "446"
+    },
+    {
+      "source": "373",
+      "target": "374",
+      "weight": 1.0,
+      "id": "410"
+    },
+    {
+      "source": "375",
+      "target": "376",
+      "weight": 1.0,
+      "id": "412"
+    },
+    {
+      "source": "379",
+      "target": "380",
+      "weight": 1.0,
+      "id": "416"
+    },
+    {
+      "source": "381",
+      "target": "382",
+      "weight": 1.0,
+      "id": "418"
+    },
+    {
+      "source": "383",
+      "target": "384",
+      "weight": 1.0,
+      "id": "420"
+    },
+    {
+      "source": "385",
+      "target": "386",
+      "weight": 1.0,
+      "id": "422"
+    },
+    {
+      "source": "387",
+      "target": "388",
+      "weight": 1.0,
+      "id": "424"
+    },
+    {
+      "source": "387",
+      "target": "389",
+      "weight": 1.0,
+      "id": "425"
+    },
+    {
+      "source": "390",
+      "target": "391",
+      "weight": 1.0,
+      "id": "427"
+    },
+    {
+      "source": "392",
+      "target": "393",
+      "weight": 1.0,
+      "id": "429"
+    },
+    {
+      "source": "394",
+      "target": "420",
+      "weight": 0.1,
+      "id": "469"
+    },
+    {
+      "source": "395",
+      "target": "396",
+      "weight": 1.0,
+      "id": "432"
+    },
+    {
+      "source": "395",
+      "target": "397",
+      "weight": 1.0,
+      "id": "433"
+    },
+    {
+      "source": "398",
+      "target": "399",
+      "weight": 1.0,
+      "id": "435"
+    },
+    {
+      "source": "400",
+      "target": "401",
+      "weight": 1.0,
+      "id": "437"
+    },
+    {
+      "source": "400",
+      "target": "402",
+      "weight": 1.0,
+      "id": "438"
+    },
+    {
+      "source": "404",
+      "target": "405",
+      "weight": 1.0,
+      "id": "441"
+    },
+    {
+      "source": "406",
+      "target": "407",
+      "weight": 1.0,
+      "id": "443"
+    },
+    {
+      "source": "408",
+      "target": "409",
+      "weight": 1.0,
+      "id": "445"
+    },
+    {
+      "source": "410",
+      "target": "411",
+      "weight": 1.0,
+      "id": "447"
+    },
+    {
+      "source": "414",
+      "target": "415",
+      "weight": 1.0,
+      "id": "451"
+    },
+    {
+      "source": "416",
+      "target": "417",
+      "weight": 1.0,
+      "id": "454"
+    }
+  ]
+}

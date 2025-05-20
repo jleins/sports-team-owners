@@ -1,7 +1,7 @@
 import networkx as nx
 from pyvis.network import Network
 
-# Load your Gephi graph file
+# Load Gephi graph file
 G = nx.read_graphml("sports.graphml")
 
 # Create PyVis network
@@ -313,4 +313,32 @@ for source, target, data in G.edges(data=True):
     )
 
 # Show the network
-net.show("simple_graph.html", notebook=False)
+net.show("sports_graph.html", notebook=False)
+
+
+# Export
+import json
+
+def export_graph_to_d3(G, path):
+    d3_data = {
+        "nodes": [],
+        "links": []
+    }
+
+    for node, attrs in G.nodes(data=True):
+        d3_data["nodes"].append({
+            "id": node,
+            **attrs
+        })
+
+    for source, target, attrs in G.edges(data=True):
+        d3_data["links"].append({
+            "source": source,
+            "target": target,
+            **attrs
+        })
+
+    with open(path, 'w') as f:
+        json.dump(d3_data, f, indent=2)
+
+export_graph_to_d3(G, 'graph_data.json')
