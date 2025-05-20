@@ -313,7 +313,7 @@ for source, target, data in G.edges(data=True):
     )
 
 # Show the network
-net.show("sports_graph.html", notebook=False)
+net.show("index.html", notebook=False)
 
 
 # Export
